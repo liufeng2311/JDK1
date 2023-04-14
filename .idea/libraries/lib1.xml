@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/platform/lib/org-openide-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/platform/lib/boot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/platform/lib/org-openide-util-lookup.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/platform/lib/org-openide-modules.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

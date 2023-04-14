@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="locale3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-selector-ui_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-charts_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-ui_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-api_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-common_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-attach_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-utilities_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-utilities_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-common_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-ui_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-oql_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-selector-api_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-selector-ui_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-snaptracer_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-attach_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-heapwalker_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-selector-api_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-api_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-heapwalker_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-charts_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-snaptracer_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-oql_ja.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

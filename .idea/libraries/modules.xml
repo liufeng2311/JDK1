@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="modules">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-snaptracer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-utilities.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-oql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-attach.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-selector-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/org-netbeans-lib-profiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/org-netbeans-lib-profiler-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/org-netbeans-modules-profiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/org-netbeans-lib-profiler-ui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-selector-ui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/org-netbeans-lib-profiler-charts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-heapwalker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,102 @@
+
+|
+java:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø¤ôÓüÿÿÿÿ8şÁ¾£µ0
+w
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºäØÏ8şÁ¾£µ0
+Q
+java:S1121À".Extract the assignment out of this expression.(ÓÄ’·ûÿÿÿÿ8şÁ¾£µ0
+M
+java:S1066å"/Merge this if statement with the enclosing one.(ŞÍ¢“8şÁ¾£µ0
+U
+java:S2589¼"7Remove this expression which always evaluates to "true"(¬îÏ«8èÃ¾£µ0
+U
+java:S2589"7Remove this expression which always evaluates to "true"(ÿŞ¿¸8èÃ¾£µ0
+a
+java:S3358z"DExtract this nested ternary operation into an independent statement.(Œ¨…Å8èÃ¾£µ0
+]
+java:S1161":Add the "@Override" annotation above this method signature(’û˜Øøÿÿÿÿ8øÃ¾£µ0
+X
+java:S1161›":Add the "@Override" annotation above this method signature(“–ış8øÃ¾£µ0
+u
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Œçû†şÿÿÿÿ8øÃ¾£µ0
+]
+java:S1161Ğ":Add the "@Override" annotation above this method signature(Œçû†şÿÿÿÿ8øÃ¾£µ0
+R
+java:S1172ï"/Remove this unused method parameter "runnable".(–à•ÿÿÿÿÿ8øÃ¾£µ0
+M
+java:S1172ó"/Remove this unused method parameter "callable".(ÀÒ¹8øÃ¾£µ0
+]
+java:S1161Î":Add the "@Override" annotation above this method signature(öº¨ßùÿÿÿÿ8øÃ¾£µ0
+X
+java:S1161Ò":Add the "@Override" annotation above this method signature(è¼ãó8øÃ¾£µ0
+X
+java:S1161Ö":Add the "@Override" annotation above this method signature(§©³Ñ8øÃ¾£µ0
+W
+java:S1161Ú":Add the "@Override" annotation above this method signature(·ÓñR8ˆÄ¾£µ0
+F
+java:S1185ü"(Remove this method to simply inherit it.(®”ğ©8ˆÄ¾£µ0
+X
+java:S1161ü":Add the "@Override" annotation above this method signature(®”ğ©8ˆÄ¾£µ0
+F
+java:S1185€"(Remove this method to simply inherit it.(Á˜ââ8ˆÄ¾£µ0
+X
+java:S1161€":Add the "@Override" annotation above this method signature(Á˜ââ8ˆÄ¾£µ0
+F
+java:S1185„"(Remove this method to simply inherit it.(ŸÜÆ’8ˆÄ¾£µ0
+X
+java:S1161„":Add the "@Override" annotation above this method signature(ŸÜÆ’8ˆÄ¾£µ0
+ƒ
+java:S6201Ÿ"`Replace this instanceof check and cast with 'instanceof ScheduledFutureTask scheduledfuturetask'(±Ì”şÿÿÿÿ8ˆÄ¾£µ0
+U
+java:S1135Ü"2Complete the task associated to this TODO comment.(°ÄÂ¡ûÿÿÿÿ8ˆÄ¾£µ0
+~
+java:S6201à"`Replace this instanceof check and cast with 'instanceof ScheduledFutureTask scheduledfuturetask'(Ó®Æ8ˆÄ¾£µ0
+]
+java:S1161ğ":Add the "@Override" annotation above this method signature(ÄàÏ‚üÿÿÿÿ8ˆÄ¾£µ0
+W
+java:S1117ñ"9Rename "lock" which hides the field declared at line 399.(º·úã8ˆÄ¾£µ0
+X
+java:S1161ú":Add the "@Override" annotation above this method signature(§†°‚8ˆÄ¾£µ0
+W
+java:S1117û"9Rename "lock" which hides the field declared at line 399.(º·úã8ˆÄ¾£µ0
+W
+java:S1117”"9Rename "lock" which hides the field declared at line 399.(º·úã8ˆÄ¾£µ0
+X
+java:S1161":Add the "@Override" annotation above this method signature(ûÄ•8ˆÄ¾£µ0
+W
+java:S1117¦"9Rename "lock" which hides the field declared at line 399.(º·úã8ˆÄ¾£µ0
+W
+java:S1117´"9Rename "lock" which hides the field declared at line 399.(º·úã8ˆÄ¾£µ0
+\	java:S899Ï":Do something with the "boolean" value returned by "offer".(çÆßêúÿÿÿÿ8—Ä¾£µ0
+]
+java:S1161Ò":Add the "@Override" annotation above this method signature(˜óó©ûÿÿÿÿ8—Ä¾£µ0
+W
+java:S1117é"9Rename "lock" which hides the field declared at line 399.(º·úã8—Ä¾£µ0
+u
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(½µğ˜ûÿÿÿÿ8—Ä¾£µ0
+W
+java:S1117ø"9Rename "lock" which hides the field declared at line 399.(º·úã8—Ä¾£µ0
+Y	java:S899‹"<Do something with the "long" value returned by "awaitNanos".(İ«ø8—Ä¾£µ0
+p
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ï¾ŠÂ8—Ä¾£µ0
+W
+java:S1117Ÿ"9Rename "lock" which hides the field declared at line 399.(º·úã8—Ä¾£µ0
+]
+java:S1161Ë":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ8—Ä¾£µ0
+W
+java:S1117Ì"9Rename "lock" which hides the field declared at line 399.(º·úã8—Ä¾£µ0
+W
+java:S1117ğ"9Rename "lock" which hides the field declared at line 399.(º·úã8—Ä¾£µ0
+W
+java:S1117Š"9Rename "lock" which hides the field declared at line 399.(º·úã8—Ä¾£µ0
+]
+java:S1161š":Add the "@Override" annotation above this method signature(•ù•ãşÿÿÿÿ8—Ä¾£µ0
+W
+java:S1117›"9Rename "lock" which hides the field declared at line 399.(º·úã8—Ä¾£µ0
+]
+java:S1161¤":Add the "@Override" annotation above this method signature(©Ûø¿ûÿÿÿÿ8—Ä¾£µ0
+W
+java:S1117¥"9Rename "lock" which hides the field declared at line 399.(º·úã8—Ä¾£µ0
+]
+java:S1161Ï":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8—Ä¾£µ0
+W	java:S899Ó";Do something with the "boolean" value returned by "remove".(Ø˜äk8—Ä¾£µ0

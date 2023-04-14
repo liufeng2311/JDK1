@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="locale6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/visualvm/core/locale/com-sun-tools-visualvm-modules-startup_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/visualvm/core/locale/core_visualvm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/visualvm/core/locale/com-sun-tools-visualvm-modules-startup_zh_CN.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

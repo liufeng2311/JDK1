@@ -1,0 +1,451 @@
+
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+\	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+\	java:S112¥"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+t
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌË¥Åûÿÿÿÿ
+t
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌË¥Åûÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õâÙÛÿÿÿÿÿ
+p
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÓ³ê
+p
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÊŒ¶
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŞŒûË
+u
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(±¶ã½ıÿÿÿÿ
+p
+java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÑ×†
+u
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(õâÙÛÿÿÿÿÿ
+u
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(Úİ´‰şÿÿÿÿ
+u
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÅî…úÿÿÿÿ
+p
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÊŒ¶
+u
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó¹³öúÿÿÿÿ
+u
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(Úİ´‰şÿÿÿÿ
+p
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ‘Ÿœ
+p
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÊŒ¶
+u
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó¹³öúÿÿÿÿ
+u
+java:S2293Ô
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(³¡¼¦úÿÿÿÿ
+u
+java:S2293Ù
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(³¡¼¦úÿÿÿÿ
+p
+java:S2293ñ
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹öêü
+p
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶Ñ®
+p
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù€½
+u
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(š“µòøÿÿÿÿ
+u
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(š“µòøÿÿÿÿ
+u
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(š“µòøÿÿÿÿ
+u
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(æº³üÿÿÿÿ
+u
+java:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(•Ÿ€ûÿÿÿÿ
+u
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔÀÊÓúÿÿÿÿ
+p
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿ì‘ú
+u
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œûæ—ıÿÿÿÿ
+u
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(›Š¢ºøÿÿÿÿ
+u
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(à¬äéúÿÿÿÿ
+u
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(à¬äéúÿÿÿÿ
+u
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(à¬äéúÿÿÿÿ
+u
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿¶Ÿşúÿÿÿÿ
+u
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(îÂÑİşÿÿÿÿ
+p
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ôİ—ÿ
+p
+java:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ôİ—ÿ
+p
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(·È‰’
+u
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÀ¾ûÿÿÿÿ
+u
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(æº³üÿÿÿÿ
+o
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºü±l
+u
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").( ä¤ÿÿÿÿÿ
+u
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßÛÕ¼øÿÿÿÿ
+u
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(®İşÿÿÿÿÿ
+p
+java:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÖÌÊ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÄğæ
+m
+java:S1192É"QDefine a constant instead of duplicating this literal "key out of range" 3 times.(¾Şñúÿÿÿÿ
+E
+java:S1121ª".Extract the assignment out of this expression.(‹×
+E
+java:S1121º".Extract the assignment out of this expression.(ù°à
+E
+java:S1121È".Extract the assignment out of this expression.(ù°à
+J
+java:S1121’".Extract the assignment out of this expression.(¦à½Úøÿÿÿÿ
+J
+java:S1121û".Extract the assignment out of this expression.(¦à½Úøÿÿÿÿ
+J
+java:S1121Ô
+".Extract the assignment out of this expression.(³¡¼¦úÿÿÿÿ
+J
+java:S1121Ù
+".Extract the assignment out of this expression.(³¡¼¦úÿÿÿÿ
+E
+java:S1121ñ
+".Extract the assignment out of this expression.(‹öêü
+E
+java:S1121‘".Extract the assignment out of this expression.(¶Ñ®
+E
+java:S1121–".Extract the assignment out of this expression.(ù€½
+E
+java:S1121ï".Extract the assignment out of this expression.(Ôİ—ÿ
+E
+java:S1121ô".Extract the assignment out of this expression.(Ôİ—ÿ
+E
+java:S1121ù".Extract the assignment out of this expression.(·È‰’
+J
+java:S1121ş".Extract the assignment out of this expression.(ÍÀ¾ûÿÿÿÿ
+J
+java:S1121Ã".Extract the assignment out of this expression.(îªìøÿÿÿÿ
+J
+java:S1121 ".Extract the assignment out of this expression.(îªìøÿÿÿÿ
+J
+java:S1121".Extract the assignment out of this expression.(îªìøÿÿÿÿ
+o	java:S135û"YReduce the total number of break and continue statements in this loop to use at most one.(Ç—±°
+o	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(‘ßµé
+o	java:S135¿"YReduce the total number of break and continue statements in this loop to use at most one.(‘ßµé
+o	java:S135ê"YReduce the total number of break and continue statements in this loop to use at most one.(‘ßµé
+o	java:S135Ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135³"YReduce the total number of break and continue statements in this loop to use at most one.(Ä¢ú
+o	java:S135è"YReduce the total number of break and continue statements in this loop to use at most one.(‘ßµé
+o	java:S135Ç"YReduce the total number of break and continue statements in this loop to use at most one.(ºæ½±
+o	java:S135ı"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135µ"YReduce the total number of break and continue statements in this loop to use at most one.(ˆºóŞ
+t	java:S135Ó"YReduce the total number of break and continue statements in this loop to use at most one.(‡Îûüÿÿÿÿ
+o	java:S135ú"YReduce the total number of break and continue statements in this loop to use at most one.(‘ßµé
+o	java:S135ñ	"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135Ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135À"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135Ó"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+n	java:S127‚"XRefactor the code in order to not assign to this loop counter from within the loop body.(†ïåÈ
+n	java:S127†"XRefactor the code in order to not assign to this loop counter from within the loop body.(—¶úè
+n	java:S127‡"XRefactor the code in order to not assign to this loop counter from within the loop body.(¶Öçò
+s	java:S127‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(µüÅÇûÿÿÿÿ
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(„ƒùÇùÿÿÿÿ
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(‚ıˆôşÿÿÿÿ
+s	java:S127°"XRefactor the code in order to not assign to this loop counter from within the loop body.(®®é‘ÿÿÿÿÿ
+n	java:S127±"XRefactor the code in order to not assign to this loop counter from within the loop body.(âğ€Û
+s	java:S127Ó"XRefactor the code in order to not assign to this loop counter from within the loop body.(®®é‘ÿÿÿÿÿ
+n	java:S127Ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(âğ€Û
+s	java:S127ø"XRefactor the code in order to not assign to this loop counter from within the loop body.(®®é‘ÿÿÿÿÿ
+n	java:S127ù"XRefactor the code in order to not assign to this loop counter from within the loop body.(âğ€Û
+s	java:S127À"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ä€ûúÿÿÿÿ
+n	java:S127Ä"XRefactor the code in order to not assign to this loop counter from within the loop body.(—¶úè
+n	java:S127Å"XRefactor the code in order to not assign to this loop counter from within the loop body.(¶Öçò
+s	java:S127Ó"XRefactor the code in order to not assign to this loop counter from within the loop body.(õÃŞ¤úÿÿÿÿ
+s	java:S127Ø"XRefactor the code in order to not assign to this loop counter from within the loop body.(§ÇÔ¾ÿÿÿÿÿ
+n	java:S127Ù"XRefactor the code in order to not assign to this loop counter from within the loop body.(üóç¿
+s	java:S127Ú"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ä€ûúÿÿÿÿ
+s	java:S127ù"XRefactor the code in order to not assign to this loop counter from within the loop body.(®®é‘ÿÿÿÿÿ
+n	java:S127ú"XRefactor the code in order to not assign to this loop counter from within the loop body.(âğ€Û
+n	java:S127º"XRefactor the code in order to not assign to this loop counter from within the loop body.(ù°à
+n	java:S127º"XRefactor the code in order to not assign to this loop counter from within the loop body.(ù°à
+n	java:S127È"XRefactor the code in order to not assign to this loop counter from within the loop body.(ù°à
+n	java:S127È"XRefactor the code in order to not assign to this loop counter from within the loop body.(ù°à
+n	java:S127å"XRefactor the code in order to not assign to this loop counter from within the loop body.(ù¡ŞŒ
+s	java:S127Â"XRefactor the code in order to not assign to this loop counter from within the loop body.(®®é‘ÿÿÿÿÿ
+n	java:S127Ã"XRefactor the code in order to not assign to this loop counter from within the loop body.(âğ€Û
+n	java:S127Ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(—¶úè
+s	java:S127á"XRefactor the code in order to not assign to this loop counter from within the loop body.(„ƒùÇùÿÿÿÿ
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(®®é‘ÿÿÿÿÿ
+n	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(âğ€Û
+L
+java:S1191“"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
+p	java:S115—"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§Úš
+F
+java:S2387"1"keySet" is the name of a field in "AbstractMap".(¤Í°d
+F
+java:S2387"1"values" is the name of a field in "AbstractMap".(›§¦
+l
+java:S1206¬"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+o
+java:S4144×
+"XUpdate this method so that its implementation is not identical to "keySet" on line 1362.(‹×ÌÓ
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(€Ğíóÿÿÿÿÿ
+p	java:S115”"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãñÁÒ
+u	java:S115•"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞÔ—¸üÿÿÿÿ
+m
+java:S30771"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¸Ïïó
+r
+java:S30772"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(»¥¥–ÿÿÿÿÿ
+M
+java:S1135n"2Complete the task associated to this TODO comment.(ªº ‡ÿÿÿÿÿ
+u	java:S115Ò"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úå€ùÿÿÿÿ
+s
+java:S3077®"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(™»‚»üÿÿÿÿ
+i
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÚÚÅË
+i
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(úÛİÓ
+Q
+java:S1119œ";Refactor the code to remove this label and the need for it.(àÏÅ)
+i
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¨§Îö
+Q
+java:S1119½";Refactor the code to remove this label and the need for it.(àÏÅ)
+j
+java:S3776ä"SRefactor this method to reduce its Cognitive Complexity from 122 to the 15 allowed.(ˆ™·‚
+Q
+java:S1119è";Refactor the code to remove this label and the need for it.(àÏÅ)
+=
+java:S1659"!Declare "max" on a separate line.(â¼–Üıÿÿÿÿ
+W
+java:S1119°";Refactor the code to remove this label and the need for it.(Ø·Èúøÿÿÿÿ
+i
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ö¹Ÿ¶
+Q
+java:S1119æ";Refactor the code to remove this label and the need for it.(àÏÅ)
+n
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(¼ÿÅ¡şÿÿÿÿ
+i
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(œä«Ë
+6
+java:S1659«"Declare "r" on a separate line.(òÚ¦
+i
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(£ª­à
+6
+java:S1659Ô"Declare "r" on a separate line.(òÚ¦
+n
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(öæÉÖıÿÿÿÿ
+j
+java:S2975ã"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ÛáÇÿ
+Q
+java:S1161ã":Add the "@Override" annotation above this method signature(ÛáÇÿ
+i
+java:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÿ«ñŠ
+i
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(’ô®æ
+V
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(ô·ŒÛøÿÿÿÿ
+V
+java:S1161±":Add the "@Override" annotation above this method signature(É±»ûÿÿÿÿ
+V
+java:S1161À":Add the "@Override" annotation above this method signature(àœçœıÿÿÿÿ
+Q
+java:S1161Ò":Add the "@Override" annotation above this method signature(µ„Ô›
+V
+java:S1161â":Add the "@Override" annotation above this method signature(›¹Şáıÿÿÿÿ
+Q
+java:S1161ò":Add the "@Override" annotation above this method signature( ©ş™
+Q
+java:S1161	":Add the "@Override" annotation above this method signature(‚¨—£
+Q
+java:S1161š	":Add the "@Override" annotation above this method signature(ûÄ•
+V
+java:S1161¡	":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+Q
+java:S1161´	":Add the "@Override" annotation above this method signature(í°
+U
+java:S1659¸	">Declare "p" and all following declarations on a separate line.(Ùôíà
+V
+java:S1161Ì	":Add the "@Override" annotation above this method signature(Ÿà¯±ûÿÿÿÿ
+n
+java:S3776í	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(²‘šÂÿÿÿÿÿ
+V
+java:S1161í	":Add the "@Override" annotation above this method signature(²‘šÂÿÿÿÿÿ
+n
+java:S3776•
+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ô†úûøÿÿÿÿ
+V
+java:S1161•
+":Add the "@Override" annotation above this method signature(ô†úûøÿÿÿÿ
+V
+java:S1161Ò
+":Add the "@Override" annotation above this method signature(ìıÊ›ûÿÿÿÿ
+Q
+java:S1161ï
+":Add the "@Override" annotation above this method signature(±ì½Ş
+V
+java:S1161¬":Add the "@Override" annotation above this method signature(İ¢êÍıÿÿÿÿ
+b
+java:S2147¿"FCombine this catch with the one at line 1469, which has the same body.(Ü–›×øÿÿÿÿ
+Q
+java:S1161Ï":Add the "@Override" annotation above this method signature(çä·ƒ
+Q
+java:S1161Ü":Add the "@Override" annotation above this method signature(Ã¶ºÍ
+Q
+java:S1161é":Add the "@Override" annotation above this method signature(Ç±Áó
+Q
+java:S1161ƒ":Add the "@Override" annotation above this method signature(öÜ·ñ
+V
+java:S1161±":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+e
+java:S2272¾"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Èç•Ê
+e
+java:S2272Æ"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ˆ™³
+e
+java:S2272Î"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(±Ê¨ó
+l
+java:S1206¾"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+Q
+java:S1161€":Add the "@Override" annotation above this method signature(ûÄ•
+V
+java:S1161„":Add the "@Override" annotation above this method signature(­­¬Îùÿÿÿÿ
+V
+java:S1161ˆ":Add the "@Override" annotation above this method signature(İî‹âùÿÿÿÿ
+V
+java:S1161Œ":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+V
+java:S1161¾":Add the "@Override" annotation above this method signature(İ¢êÍıÿÿÿÿ
+b
+java:S2147È"FCombine this catch with the one at line 1990, which has the same body.(Ü–›×øÿÿÿÿ
+V
+java:S1161Í":Add the "@Override" annotation above this method signature(•ù•ãşÿÿÿÿ
+V
+java:S1161Ñ":Add the "@Override" annotation above this method signature(©Ûø¿ûÿÿÿÿ
+V
+java:S1161ú":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+Q
+java:S1161‘":Add the "@Override" annotation above this method signature(ûÄ•
+V
+java:S1161™":Add the "@Override" annotation above this method signature(­­¬Îùÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+V
+java:S1161¡":Add the "@Override" annotation above this method signature(•ù•ãşÿÿÿÿ
+V
+java:S1161¥":Add the "@Override" annotation above this method signature(©Ûø¿ûÿÿÿÿ
+V
+java:S1161ª":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+l
+java:S1206İ"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+V
+java:S1161Á":Add the "@Override" annotation above this method signature(­­¬Îùÿÿÿÿ
+V
+java:S1161É":Add the "@Override" annotation above this method signature(İî‹âùÿÿÿÿ
+Q
+java:S1161Ñ":Add the "@Override" annotation above this method signature(ûÄ•
+V
+java:S1161Ù":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+V
+java:S1161İ":Add the "@Override" annotation above this method signature(İ¢êÍıÿÿÿÿ
+b
+java:S2147ç"FCombine this catch with the one at line 2149, which has the same body.(Ü–›×øÿÿÿÿ
+V
+java:S1161ì":Add the "@Override" annotation above this method signature(•ù•ãşÿÿÿÿ
+V
+java:S1161ğ":Add the "@Override" annotation above this method signature(©Ûø¿ûÿÿÿÿ
+V
+java:S1161õ":Add the "@Override" annotation above this method signature(çˆÆÔúÿÿÿÿ
+<
+java:S2157Š"%Add a "clone()" method to this class.(ãªÁî
+B
+java:S2160Š"+Override the "equals" method in this class.(ãªÁî
+o
+java:S4144ò"XUpdate this method so that its implementation is not identical to "keySet" on line 2669.(‹×ÌÓ
+?
+java:S1948"#Make "m" transient or serializable.(ùÒÂêúÿÿÿÿ
+;
+java:S1948‘"$Make "lo" transient or serializable.(ö½•·
+;
+java:S1948“"$Make "hi" transient or serializable.(¦Ÿ¨Ÿ
+W
+java:S1126Ù"AReplace this if-then-else statement by a single return statement.(Š‹
+n
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿Ø€ùÿÿÿÿ
+n
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¢Ì¥üÿÿÿÿ
+V
+java:S1161‹":Add the "@Override" annotation above this method signature(ô·ŒÛøÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(É±»ûÿÿÿÿ
+Q
+java:S1161•":Add the "@Override" annotation above this method signature(µ„Ô›
+V
+java:S1161š":Add the "@Override" annotation above this method signature(›¹Şáıÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(‚¨—£
+Q
+java:S1161ª":Add the "@Override" annotation above this method signature(ûÄ•
+Q
+java:S1161¯":Add the "@Override" annotation above this method signature( ©ş™
+V
+java:S1161½":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+Q
+java:S1161É":Add the "@Override" annotation above this method signature(çä·ƒ
+Q
+java:S1161Î":Add the "@Override" annotation above this method signature(Ã¶ºÍ
+Q
+java:S1161Ò":Add the "@Override" annotation above this method signature(Ç±Áó
+Q
+java:S1161×":Add the "@Override" annotation above this method signature(öÜ·ñ
+n
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ååæ¾ùÿÿÿÿ
+V
+java:S1161í":Add the "@Override" annotation above this method signature(ìıÊ›ûÿÿÿÿ
+Q
+java:S1161÷":Add the "@Override" annotation above this method signature(±ì½Ş
+V
+java:S1161ä":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+P
+java:S1161ø":Add the "@Override" annotation above this method signature(ğ…Ç
+e
+java:S2272„"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Èç•Ê
+e
+java:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ˆ™³
+V
+java:S1161›":Add the "@Override" annotation above this method signature(üğÇÂùÿÿÿÿ
+e
+java:S2272¡"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(±Ê¨ó
+V
+java:S1161°":Add the "@Override" annotation above this method signature(ÂìÎ‚øÿÿÿÿ
+P
+java:S1161¹":Add the "@Override" annotation above this method signature(‡æ­$
+>
+java:S1905è"'Remove this unnecessary cast to "long".(¸à°¢
+;
+java:S1659û"Declare "n" on a separate line.(½·ÄÉúÿÿÿÿ
+Q
+java:S1161Œ":Add the "@Override" annotation above this method signature(÷ƒµ—
+V
+java:S1161¸":Add the "@Override" annotation above this method signature(üğÇÂùÿÿÿÿ
+;
+java:S1659Ú"Declare "n" on a separate line.(½·ÄÉúÿÿÿÿ
+Q
+java:S1161ë":Add the "@Override" annotation above this method signature(ğ¸¯¡
+;
+java:S1659·"Declare "n" on a separate line.(½·ÄÉúÿÿÿÿ
+V
+java:S1161È":Add the "@Override" annotation above this method signature(ˆ¶÷ºşÿÿÿÿ
+V
+java:S1161ù":Add the "@Override" annotation above this method signature(¨­¸øÿÿÿÿ
+D
+java:S1068˜"-Remove this unused "SECONDARY" private field.(ÍÁÈÿ

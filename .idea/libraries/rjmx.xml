@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rjmx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/missioncontrol/plugins/com.jrockit.mc.rjmx_5.5.2.174165/rjmx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

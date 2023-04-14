@@ -1,0 +1,24 @@
+
+Q
+java:S3740$"/Provide the parametrized type for this generic.(í­İÎùÿÿÿÿ8õ¨ş«µ0
+a
+java:S1854"DRemove this useless assignment to local variable "executorService2".(Ê„ã8…©ş«µ0
+`
+java:S1854"DRemove this useless assignment to local variable "executorService1".(ñùıQ8”©ş«µ0
+`
+java:S1854"CRemove this useless assignment to local variable "executorService".(¸‘æÃ8”©ş«µ0
+Q
+java:S1481"4Remove this unused "executorService" local variable.(¸‘æÃ8”©ş«µ0
+Q
+java:S1481"5Remove this unused "executorService1" local variable.(ñùıQ8”©ş«µ0
+R
+java:S1481"5Remove this unused "executorService2" local variable.(Ê„ã8”©ş«µ0
+N
+java:S1602",Remove useless curly braces around statement(˜——¢şÿÿÿÿ8¤©ş«µ0
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(«¶æ8¤©ş«µ0
+N
+java:S1602)",Remove useless curly braces around statement(¥ÖÖüÿÿÿÿ8¤©ş«µ0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(Ë¿ŠŸıÿÿÿÿ8¤©ş«µ0
+I
+java:S1602-",Remove useless curly braces around statement(÷”Í¬8¤©ş«µ0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(Öìíıÿÿÿÿ8¤©ş«µ0

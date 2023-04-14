@@ -1,0 +1,473 @@
+
+\	java:S112Á"FDefine and throw a dedicated exception instead of using a generic one.(­§äç
+\	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+\	java:S112Ã"FDefine and throw a dedicated exception instead of using a generic one.(­§äç
+\	java:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+u
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(†Çí†ùÿÿÿÿ
+p
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡Íâ§
+u
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤Å®€şÿÿÿÿ
+u
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ã¶Ñüÿÿÿÿ
+p
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(æÛ‹Ò
+p
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÒÌ
+J
+java:S1121Ó".Extract the assignment out of this expression.(€ËŒÛúÿÿÿÿ
+J
+java:S1121é".Extract the assignment out of this expression.(çíöõûÿÿÿÿ
+E
+java:S1121ê".Extract the assignment out of this expression.(íÛòµ
+E
+java:S1121ı".Extract the assignment out of this expression.(ï‹íó
+E
+java:S1121ı".Extract the assignment out of this expression.(ï‹íó
+E
+java:S1121“".Extract the assignment out of this expression.(ä·¤µ
+J
+java:S1121§".Extract the assignment out of this expression.(³£âãúÿÿÿÿ
+J
+java:S1121§".Extract the assignment out of this expression.(³£âãúÿÿÿÿ
+D
+java:S1121Ö".Extract the assignment out of this expression.(ÌşÊ
+E
+java:S1121ò".Extract the assignment out of this expression.(Ûë­
+E
+java:S1121ô".Extract the assignment out of this expression.(Íª”Õ
+E
+java:S1121".Extract the assignment out of this expression.(Ûë­
+E
+java:S1121’".Extract the assignment out of this expression.(Íª”Õ
+E
+java:S1121†
+".Extract the assignment out of this expression.(ïãº
+J
+java:S1121‡
+".Extract the assignment out of this expression.(šÔ°‹øÿÿÿÿ
+J
+java:S1121×
+".Extract the assignment out of this expression.(Äğõÿÿÿÿÿ
+E
+java:S1121Ø
+".Extract the assignment out of this expression.(ÖöÇÙ
+E
+java:S1121Û
+".Extract the assignment out of this expression.(õğÿÕ
+E
+java:S1121Ü
+".Extract the assignment out of this expression.(ÍÚİ«
+D
+java:S1121ã
+".Extract the assignment out of this expression.(á÷İw
+J
+java:S1121è
+".Extract the assignment out of this expression.(ÙÖ­»ıÿÿÿÿ
+E
+java:S1121‰".Extract the assignment out of this expression.(õğÿÕ
+E
+java:S1121Š".Extract the assignment out of this expression.(ÍÚİ«
+E
+java:S1121š".Extract the assignment out of this expression.(š•öÍ
+J
+java:S1121Ò".Extract the assignment out of this expression.(ÀÌ¥Ãÿÿÿÿÿ
+E
+java:S1121„".Extract the assignment out of this expression.(õğÿÕ
+E
+java:S1121…".Extract the assignment out of this expression.(ÍÚİ«
+J
+java:S1121".Extract the assignment out of this expression.(È™Øÿıÿÿÿÿ
+J
+java:S1121¤".Extract the assignment out of this expression.(«Õùğûÿÿÿÿ
+E
+java:S1121§".Extract the assignment out of this expression.(õğÿÕ
+E
+java:S1121¨".Extract the assignment out of this expression.(ÍÚİ«
+E
+java:S1121¿".Extract the assignment out of this expression.(ÃÈ’
+E
+java:S1121Ì".Extract the assignment out of this expression.(²Æ
+E
+java:S1121".Extract the assignment out of this expression.(œĞ
+J
+java:S1121Ÿ".Extract the assignment out of this expression.(˜àÛÓùÿÿÿÿ
+D
+java:S1121¢".Extract the assignment out of this expression.(€Ğ¹/
+J
+java:S1121¥".Extract the assignment out of this expression.(Í·‘Èøÿÿÿÿ
+E
+java:S1121µ".Extract the assignment out of this expression.(‡…ú°
+E
+java:S1121í".Extract the assignment out of this expression.(µ´ç“
+E
+java:S1121¶".Extract the assignment out of this expression.(µ´ç“
+E
+java:S1121º".Extract the assignment out of this expression.(íü´ 
+E
+java:S1121¾".Extract the assignment out of this expression.(”Õ‰ğ
+E
+java:S1121Ä".Extract the assignment out of this expression.(‚Ô×Õ
+E
+java:S1121Ø".Extract the assignment out of this expression.(íü´ 
+J
+java:S1121".Extract the assignment out of this expression.(Ææ©Ìûÿÿÿÿ
+J
+java:S1121".Extract the assignment out of this expression.(Ÿèéòıÿÿÿÿ
+J
+java:S1121".Extract the assignment out of this expression.(Ÿèéòıÿÿÿÿ
+J
+java:S1121".Extract the assignment out of this expression.(Â­şÿÿÿÿ
+E
+java:S1121‘".Extract the assignment out of this expression.(§Ö¸
+J
+java:S1121’".Extract the assignment out of this expression.(éÒêÍúÿÿÿÿ
+E
+java:S1121“".Extract the assignment out of this expression.(ëÄ»
+D
+java:S1121”".Extract the assignment out of this expression.(ß‹º
+E
+java:S1121²".Extract the assignment out of this expression.(ÍÚİ«
+J
+java:S1121¹".Extract the assignment out of this expression.(¬ÀŞşÿÿÿÿ
+E
+java:S1121„".Extract the assignment out of this expression.(¶æô 
+J
+java:S1121–".Extract the assignment out of this expression.(÷ŞÑïüÿÿÿÿ
+o	java:S135ª"YReduce the total number of break and continue statements in this loop to use at most one.(°—¬
+t	java:S135¯
+"YReduce the total number of break and continue statements in this loop to use at most one.(¼¸˜µøÿÿÿÿ
+o	java:S135¡"YReduce the total number of break and continue statements in this loop to use at most one.(ŒñÄ
+o	java:S135Ê"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+o	java:S135‹"YReduce the total number of break and continue statements in this loop to use at most one.(Ç¬‘Ê
+t	java:S135¤"YReduce the total number of break and continue statements in this loop to use at most one.(ıÙå÷üÿÿÿÿ
+o	java:S135±"YReduce the total number of break and continue statements in this loop to use at most one.(ôÆÍ÷
+t	java:S135š"YReduce the total number of break and continue statements in this loop to use at most one.(ïô…©ıÿÿÿÿ
+t	java:S135ó"YReduce the total number of break and continue statements in this loop to use at most one.(ÈÊØÃúÿÿÿÿ
+t	java:S135®"YReduce the total number of break and continue statements in this loop to use at most one.(¼õËáşÿÿÿÿ
+t	java:S135¯"YReduce the total number of break and continue statements in this loop to use at most one.(ÈÊØÃúÿÿÿÿ
+s	java:S127¬"XRefactor the code in order to not assign to this loop counter from within the loop body.(ßÃÄÔûÿÿÿÿ
+n	java:S127í"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğÔª
+n	java:S127í"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğÔª
+n	java:S127í"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğÔª
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(îıÔÿÿÿÿÿ
+m	java:S127¢"XRefactor the code in order to not assign to this loop counter from within the loop body.(€Ğ¹/
+n	java:S127¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬îøò
+n	java:S127Ø"XRefactor the code in order to not assign to this loop counter from within the loop body.(œ×ï
+s	java:S127ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(…«ê ûÿÿÿÿ
+s	java:S127…"XRefactor the code in order to not assign to this loop counter from within the loop body.(…«ê ûÿÿÿÿ
+s	java:S127‡"XRefactor the code in order to not assign to this loop counter from within the loop body.(´â¼ğşÿÿÿÿ
+s	java:S127Š"XRefactor the code in order to not assign to this loop counter from within the loop body.(…«ê ûÿÿÿÿ
+m	java:S127´"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âê¨H
+s	java:S127Â"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â€üÂşÿÿÿÿ
+n	java:S127Ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(éşá€
+n	java:S127Ø"XRefactor the code in order to not assign to this loop counter from within the loop body.(íü´ 
+s	java:S127¹"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬ÀŞşÿÿÿÿ
+s	java:S127¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(…«ê ûÿÿÿÿ
+s	java:S127Á"XRefactor the code in order to not assign to this loop counter from within the loop body.(…«ê ûÿÿÿÿ
+s	java:S127Ã"XRefactor the code in order to not assign to this loop counter from within the loop body.(´â¼ğşÿÿÿÿ
+s	java:S127Æ"XRefactor the code in order to not assign to this loop counter from within the loop body.(…«ê ûÿÿÿÿ
+D
+java:S1604Î"(Make this anonymous inner class a lambda(‚²ùùÿÿÿÿ
+>
+java:S1604–"(Make this anonymous inner class a lambda(úİ
+Q
+java:S1191¨"5Use classes from the Java API instead of Sun classes.(Ü„ÃÚşÿÿÿÿ
+W
+java:S2184è"@Cast one of the operands of this addition operation to a "long".(ŞÚ§â
+\
+java:S2184”"@Cast one of the operands of this addition operation to a "long".(Ã±ìüÿÿÿÿ
+V
+java:S2184ä"@Cast one of the operands of this addition operation to a "long".(Ÿ–÷I
+W
+java:S2184’"@Cast one of the operands of this addition operation to a "long".(ÛÚô 
+W
+java:S2184«"@Cast one of the operands of this addition operation to a "long".(ÌÓÚú
+\
+java:S2184×"@Cast one of the operands of this addition operation to a "long".(û·›Üıÿÿÿÿ
+V
+java:S2184ó"@Cast one of the operands of this addition operation to a "long".(üíq
+V
+java:S2184‘"@Cast one of the operands of this addition operation to a "long".(üíq
+\
+java:S2184"@Cast one of the operands of this addition operation to a "long".(º¦¢‘ıÿÿÿÿ
+V
+java:S2184—"@Cast one of the operands of this addition operation to a "long".(üíq
+œ
+java:S1862ş"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(Š™Ùó
+œ
+java:S1862º"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(Š™Ùó
+p	java:S115æ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ƒùœ’
+f
+java:S1845¤"JRename field "CTL" to prevent any misunderstanding/clash with field "ctl".(¾›œúıÿÿÿÿ
+o
+java:S1845¨"XRename field "STEALCOUNT" to prevent any misunderstanding/clash with field "stealCount".(¶öä²
+q
+java:S1845©"NRename field "PLOCK" to prevent any misunderstanding/clash with field "plock".(µáÎüÿÿÿÿ8õÙÖ¦µ0
+y
+java:S1845ª"VRename field "INDEXSEED" to prevent any misunderstanding/clash with field "indexSeed".(ğ±‡Øúÿÿÿÿ8õÙÖ¦µ0
+W	java:S125–"<This block of commented-out lines of code should be removed.(¯†ªËûÿÿÿÿ
+
+java:S1186à"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÇÂÖÿıÿÿÿÿ
+l
+java:S1845²"NRename field "QLOCK" to prevent any misunderstanding/clash with field "qlock".(¶öä²8…ÚÖ¦µ0
+n
+java:S3077¶"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(… ƒ³
+s
+java:S3077·"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(×‰Î—úÿÿÿÿ
+T
+java:S1659Ò">Declare "m" and all following declarations on a separate line.(ü‡¤
+5
+java:S1659ä"Declare "p" on a separate line.(ü¶ı
+;
+java:S1659å"Declare "n" on a separate line.(¢â·×øÿÿÿÿ
+=
+java:S1452õ"&Remove usage of generic wildcard type.(½ş÷ñ
+Z
+java:S1659ú">Declare "t" and all following declarations on a separate line.(¤×á™ÿÿÿÿÿ
+B
+java:S1452"&Remove usage of generic wildcard type.(ÁÕÉæùÿÿÿÿ
+Z
+java:S1659‘">Declare "t" and all following declarations on a separate line.(¹ıÔ¹úÿÿÿÿ
+=
+java:S1452¥"&Remove usage of generic wildcard type.(™‘é·
+6
+java:S1659¦"Declare "a" on a separate line.(“àÀˆ
+B
+java:S1452µ"&Remove usage of generic wildcard type.(ÓÍ«ıÿÿÿÿ
+Z
+java:S1659¶">Declare "b" and all following declarations on a separate line.(²”õİúÿÿÿÿ
+<
+java:S1452Ì"&Remove usage of generic wildcard type.(­ÑÁ&
+B
+java:S1452Ó"&Remove usage of generic wildcard type.(ë¬Ñòıÿÿÿÿ
+6
+java:S1659Ô"Declare "m" on a separate line.(öó‚
+;
+java:S1659á"Declare "s" on a separate line.(¿›’ƒıÿÿÿÿ
+;
+java:S1659"Declare "m" on a separate line.(±£ƒçûÿÿÿÿ
+i
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÿï’¤
+Z
+java:S1659¥">Declare "m" and all following declarations on a separate line.(üŸ½Ôşÿÿÿÿ
+?
+java:S1659¨"#Declare "empty" on a separate line.(•óï©ùÿÿÿÿ
+n
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¬ºú·şÿÿÿÿ
+T
+java:S1659Õ">Declare "b" and all following declarations on a separate line.(ƒµ®b
+i
+java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(®áçÚ
+U
+java:S1659ñ">Declare "s" and all following declarations on a separate line.(±àáô
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ûù“Ö
+U
+java:S1659">Declare "s" and all following declarations on a separate line.(±àáô
+;
+java:S1659§"Declare "s" on a separate line.(Ã¹‰¹şÿÿÿÿ
+n
+java:S3776ƒ
+"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(àœá‡şÿÿÿÿ
+[
+java:S1659„
+"?Declare "ps" and all following declarations on a separate line.(äŸ×¨ÿÿÿÿÿ
+D	java:S108•
+")Either remove or fill this block of code.(¦ñ¾›úÿÿÿÿ
+Z
+java:S1659®
+">Declare "u" and all following declarations on a separate line.(Ëúïúúÿÿÿÿ
+C
+java:S1905²
+"'Remove this unnecessary cast to "long".(˜³ú‰ıÿÿÿÿ
+<
+java:S1181½
+"%Catch Exception instead of Throwable.( Œã
+n
+java:S3776Ò
+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(–§ÿšúÿÿÿÿ
+V
+java:S1659Ó
+"?Declare "ws" and all following declarations on a separate line.(ŒÍÓ
+D	java:S108×
+")Either remove or fill this block of code.(Äğõÿÿÿÿÿ
+6
+java:S1659á
+"Declare "m" on a separate line.(¥Ùï‹
+i
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(¡„®·
+D	java:S108™")Either remove or fill this block of code.(„®‘îûÿÿÿÿ
+Z
+java:S1659 ">Declare "v" and all following declarations on a separate line.(üøŸòşÿÿÿÿ
+C
+java:S1905§"'Remove this unnecessary cast to "long".(Ü¹äïÿÿÿÿÿ
+U
+java:S1659Ê">Declare "m" and all following declarations on a separate line.(¼ŸÚô
+i
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(´•ÒÚ
+R
+java:S1854¤"6Remove this useless assignment to local variable "ps".(«Õùğûÿÿÿÿ
+Z
+java:S1659ø">Declare "q" and all following declarations on a separate line.(ŞÛà‡üÿÿÿÿ
+D	java:S108¾")Either remove or fill this block of code.(„®‘îûÿÿÿÿ
+i
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Îæã±
+U
+java:S1659Ë">Declare "e" and all following declarations on a separate line.(ÊºŠ
+C
+java:S1905Ö"'Remove this unnecessary cast to "long".(™¶Óıÿÿÿÿ
+i
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(áÆêñ
+6
+java:S1659ˆ"Declare "m" on a separate line.(şÔµ
+Z
+java:S1659Œ">Declare "b" and all following declarations on a separate line.(œ¼ïÍøÿÿÿÿ
+=
+java:S1905¢"'Remove this unnecessary cast to "long".(„›¤c
+n
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(¤ƒæ–ùÿÿÿÿ
+V
+java:S1659¾"?Declare "ns" and all following declarations on a separate line.(¹ıÍõ
+C
+java:S1905É"'Remove this unnecessary cast to "long".(áõ»›şÿÿÿÿ
+>
+java:S1905Í"'Remove this unnecessary cast to "long".(¾¾Ùè
+Z
+java:S1659ñ">Declare "e" and all following declarations on a separate line.(æıïÿıÿÿÿÿ
+C
+java:S1905õ"'Remove this unnecessary cast to "long".(Ü¹äïÿÿÿÿÿ
+j
+java:S3776”"SRefactor this method to reduce its Cognitive Complexity from 119 to the 15 allowed.(“»é¸
+?
+java:S1659•"#Declare "steps" on a separate line.(¸íöıÿÿÿÿ
+R
+java:S1119˜";Refactor the code to remove this label and the need for it.(Ü°Æ
+U
+java:S1659›">Declare "m" and all following declarations on a separate line.(ÃÀé˜
+;
+java:S1659²"Declare "b" on a separate line.(âÍŸùÿÿÿÿ
+n
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‡Îóáûÿÿÿÿ
+6
+java:S1659ì"Declare "m" on a separate line.(şÔµ
+j
+java:S1871€"NThis branch's code block is the same as the block for the branch on line 1911.(£ôäÁşÿÿÿÿ
+i
+java:S3776š"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÁÀëÜ
+Z
+java:S1659œ">Declare "e" and all following declarations on a separate line.(ïÂ˜Çúÿÿÿÿ
+C
+java:S1905¡"'Remove this unnecessary cast to "long".(ô·æâøÿÿÿÿ
+<
+java:S1181¾"%Catch Exception instead of Throwable.( Œã
+n
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(À±œŸûÿÿÿÿ
+D	java:S108Ô")Either remove or fill this block of code.(¶æùƒÿÿÿÿÿ
+`
+java:S2445à"I"task" is a method parameter, and should not be used for synchronization.(²¨
+z
+java:S2142ä"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ
+D	java:S108ä")Either remove or fill this block of code.(øôÔ×ûÿÿÿÿ
+D	java:S108ì")Either remove or fill this block of code.(„®‘îûÿÿÿÿ
+D	java:S108…")Either remove or fill this block of code.(¶æùƒÿÿÿÿÿ
+D	java:S108Š")Either remove or fill this block of code.(ÎÊ·òúÿÿÿÿ
+Z
+java:S1659™">Declare "m" and all following declarations on a separate line.(œ´îßÿÿÿÿÿ
+i
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(á½íÒ
+R
+java:S1854­"6Remove this useless assignment to local variable "ps".(ØßøÆıÿÿÿÿ
+C
+java:S1481­"'Remove this unused "ps" local variable.(ØßøÆıÿÿÿÿ
+Z
+java:S1659¯">Declare "q" and all following declarations on a separate line.(—Ğšâùÿÿÿÿ
+D	java:S108µ")Either remove or fill this block of code.(„®‘îûÿÿÿÿ
+=
+java:S1452Ñ"&Remove usage of generic wildcard type.(ÌüÿÖ
+6
+java:S1659Ó"Declare "b" on a separate line.(›Ğùì
+V
+java:S1659Œ"?Declare "wt" and all following declarations on a separate line.(Èéı¼
+`
+java:S3358’"DExtract this nested ternary operation into an independent statement.(éÒêÍúÿÿÿÿ
+[
+java:S3358“"DExtract this nested ternary operation into an independent statement.(ëÄ»
+Z
+java:S3358”"DExtract this nested ternary operation into an independent statement.(ß‹º
+j
+java:S3776ª"SRefactor this method to reduce its Cognitive Complexity from 110 to the 15 allowed.(´úœÇ
+;
+java:S1659Â"Declare "w" on a separate line.(ô¯…¬ûÿÿÿÿ
+U
+java:S1659Ò">Declare "w" and all following declarations on a separate line.(¥êÂ
+U
+java:S1659ç">Declare "e" and all following declarations on a separate line.(İãú
+<
+java:S1181Ş"%Catch Exception instead of Throwable.(Æ·™‹
+?	java:S108Ş")Either remove or fill this block of code.(Æ·™‹
+C
+java:S1905ë"'Remove this unnecessary cast to "long".(ô·æâøÿÿÿÿ
+[
+java:S1659ƒ"?Declare "ws" and all following declarations on a separate line.(Ô—Æ‰ûÿÿÿÿ
+U
+java:S1659">Declare "a" and all following declarations on a separate line.(÷øùÕ
+i
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‹ñ³ó
+5
+java:S1659¦"Declare "m" on a separate line.(ãüy
+j
+java:S1871¼"NThis branch's code block is the same as the block for the branch on line 2355.(£ôäÁşÿÿÿÿ
+C
+java:S1905³"'Remove this unnecessary cast to "long".(ÂŞ„ıÿÿÿÿ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(„ÛùÕùÿÿÿÿ
+V
+java:S1161™":Add the "@Override" annotation above this method signature(¨èï®üÿÿÿÿ
+Q
+java:S1161¤":Add the "@Override" annotation above this method signature(âÒ¼ª
+V
+java:S1161¯":Add the "@Override" annotation above this method signature(ã÷«“øÿÿÿÿ
+Q
+java:S1161¿":Add the "@Override" annotation above this method signature(‘®Ş
+;
+java:S1659"Declare "w" on a separate line.(ô¯…¬ûÿÿÿÿ
+;
+java:S1659Ğ"Declare "w" on a separate line.(ô¯…¬ûÿÿÿÿ
+;
+java:S1659æ"Declare "w" on a separate line.(ô¯…¬ûÿÿÿÿ
+;
+java:S1659ù"Declare "w" on a separate line.(ô¯…¬ûÿÿÿÿ
+;
+java:S1659Š"Declare "w" on a separate line.(ô¯…¬ûÿÿÿÿ
+=
+java:S1452›"&Remove usage of generic wildcard type.(¤€ñŠ
+U
+java:S1659œ">Declare "w" and all following declarations on a separate line.(ØŠöÅ
+U
+java:S1659¹">Declare "w" and all following declarations on a separate line.(ØŠöÅ
+i
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Á»›ê
+V
+java:S1659Ğ"?Declare "qs" and all following declarations on a separate line.(ª¼Ó¦
+;
+java:S1659Ó"Declare "w" on a separate line.(ô¯…¬ûÿÿÿÿ
+n
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(»„±‰şÿÿÿÿ
+6
+java:S1659Š"Declare "m" on a separate line.(ûÇôÂ
+y
+java:S6201ƒ"bReplace this instanceof check and cast with 'instanceof ForkJoinWorkerThread forkjoinworkerthread'(½Ë°ñ
+Z
+java:S1659•">Declare "q" and all following declarations on a separate line.(åƒòâùÿÿÿÿ
+…
+java:S6201‚"bReplace this instanceof check and cast with 'instanceof ForkJoinWorkerThread forkjoinworkerthread'(¡»¢üùÿÿÿÿ8ÛÖ¦µ0
+K	java:S108‡")Either remove or fill this block of code.(æÀö€øÿÿÿÿ8ÛÖ¦µ0
+K	java:S108‘")Either remove or fill this block of code.(µáÎüÿÿÿÿ8ÛÖ¦µ0
+V
+java:S1161š":Add the "@Override" annotation above this method signature(—¯ÕËøÿÿÿÿ
+]
+java:S1161":Add the "@Override" annotation above this method signature(ö•Ñƒúÿÿÿÿ8ÛÖ¦µ0
+F	java:S108ï")Either remove or fill this block of code.(İÊ·8®ÛÖ¦µ0
+c
+java:S1905˜"@Remove this unnecessary cast to "InnocuousForkJoinWorkerThread".(Ñ¥àİùÿÿÿÿ8®ÛÖ¦µ0

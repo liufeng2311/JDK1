@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com-sun-tools-visualvm-modules-startup">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/visualvm/core/com-sun-tools-visualvm-modules-startup.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+
+{
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(ªêØÓüÿÿÿÿ8æå¸É·0
+t
+java:S3776)"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ñ¨„¤ÿÿÿÿÿ8«è¸É·0
+g
+java:S2147|"ECombine this catch with the one at line 123, which has the same body.(¨ÿÊ»úÿÿÿÿ8ºè¸É·0
+E	java:S108{")Either remove or fill this block of code.(î§Ÿ¹8»è¸É·0
+J	java:S108|")Either remove or fill this block of code.(¨ÿÊ»úÿÿÿÿ8»è¸É·0
+p
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(´ÇÔñ8»è¸É·0
+h
+java:S2147¥"ECombine this catch with the one at line 164, which has the same body.(¨ÿÊ»úÿÿÿÿ8½è¸É·0
+F	java:S108¤")Either remove or fill this block of code.(î§Ÿ¹8¾è¸É·0
+K	java:S108¥")Either remove or fill this block of code.(¨ÿÊ»úÿÿÿÿ8¾è¸É·0

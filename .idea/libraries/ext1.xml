@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ext1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/platform/modules/ext/updater.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/platform/modules/ext/jhall-2.0_05.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

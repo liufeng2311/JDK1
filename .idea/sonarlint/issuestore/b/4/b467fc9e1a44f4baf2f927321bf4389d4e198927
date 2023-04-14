@@ -1,0 +1,52 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊËäüÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¸á¸
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾ú†€
+o
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(’•ş˜
+t
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÖË¨ùÿÿÿÿ
+o
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(è†×
+t
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(È‘Š ùÿÿÿÿ
+t
+java:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÚ«¹şÿÿÿÿ
+o
+java:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ğºâ
+>
+java:S1604ƒ"(Make this anonymous inner class a lambda(ÆŞÖ
+D
+java:S1604"(Make this anonymous inner class a lambda(¯’Àˆşÿÿÿÿ
+e
+java:S3014Ğ"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(‹©Öıÿÿÿÿ
+K
+java:S1191
+"5Use classes from the Java API instead of Sun classes.(¼¸Ñá
+S
+java:S1612c"8Replace this lambda with method reference 'action::run'.(ÇÃˆ¦úÿÿÿÿ
+S
+java:S1612i"8Replace this lambda with method reference 'action::run'.(ÇÃˆ¦úÿÿÿÿ
+V
+java:S1161€":Add the "@Override" annotation above this method signature(Ï¾ŞËùÿÿÿÿ
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(è¼ãó
+P
+java:S1161":Add the "@Override" annotation above this method signature(·ÓñR
+Q
+java:S1161¡":Add the "@Override" annotation above this method signature(§©³Ñ
+Q
+java:S1161¤":Add the "@Override" annotation above this method signature(²°ıù
+V
+java:S1161¨":Add the "@Override" annotation above this method signature(Òó½™şÿÿÿÿ
+V
+java:S1161­":Add the "@Override" annotation above this method signature(“À‘úÿÿÿÿ
+Q
+java:S1161±":Add the "@Override" annotation above this method signature(¡®¤Ñ
+I
+java:S1113¼"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+\
+java:S1128	"ARemove this unused import 'java.security.AccessControlException'.(¢Ù¸ùÿÿÿÿ

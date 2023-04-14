@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="locale5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/platform/core/locale/core_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/platform/core/locale/org-openide-filesystems_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/platform/core/locale/core_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/visualvm/platform/core/locale/org-openide-filesystems_zh_CN.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

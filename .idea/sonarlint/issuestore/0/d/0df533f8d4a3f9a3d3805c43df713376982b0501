@@ -1,0 +1,851 @@
+
+c	java:S112Š"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ8¤¿¾¦µ0
+|
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒÅÅˆÿÿÿÿÿ8±¿¾¦µ0
+|
+java:S2293®
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ‚ï—ıÿÿÿÿ8³¿¾¦µ0
+v
+java:S2293²
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞšÉ8³¿¾¦µ0
+w
+java:S2293×
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(üŒÄò8³¿¾¦µ0
+w
+java:S2293Ü
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìœ”8Ã¿¾¦µ0
+w
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(üŒÄò8Ã¿¾¦µ0
+w
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖŸçô8Ò¿¾¦µ0
+w
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿÙ›ª8Ò¿¾¦µ0
+w
+java:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(üŒÄò8Ò¿¾¦µ0
+|
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëÿÒ›ıÿÿÿÿ8â¿¾¦µ0
+w
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(üŒÄò8â¿¾¦µ0
+|
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ‚ï—ıÿÿÿÿ8â¿¾¦µ0
+|
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç‡•šÿÿÿÿÿ8ò¿¾¦µ0
+w
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(üŒÄò8ò¿¾¦µ0
+w
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§üáÆ8ò¿¾¦µ0
+w
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(üŒÄò8À¾¦µ0
+w
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Îó˜8À¾¦µ0
+u
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬€…áøÿÿÿÿ
+w
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Îó˜8À¾¦µ0
+w
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Îó˜8‘À¾¦µ0
+w
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ìä8‘À¾¦µ0
+v
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ñ²8‘À¾¦µ0
+|
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ‚ï—ıÿÿÿÿ8 À¾¦µ0
+w
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïé‚8 À¾¦µ0
+w
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡×ÅÚ8 À¾¦µ0
+w
+java:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡×ÅÚ8°À¾¦µ0
+w
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(×‘ÕÎ8°À¾¦µ0
+w
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(×‘ÕÎ8°À¾¦µ0
+w
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡×ÅÚ8°À¾¦µ0
+w
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ìä8ÀÀ¾¦µ0
+w
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú²øÛ8ÀÀ¾¦µ0
+w
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(üŒÄò8ÀÀ¾¦µ0
+w
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(üŒÄò8ÏÀ¾¦µ0
+w
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ‡İ×8ÏÀ¾¦µ0
+|
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ˆ€Ûùÿÿÿÿ8ÏÀ¾¦µ0
+w
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ‡İ×8ÏÀ¾¦µ0
+L
+java:S1121¥".Extract the assignment out of this expression.(Ğ°üô8ßÀ¾¦µ0
+L
+java:S1121Í".Extract the assignment out of this expression.(Ğ°üô8ßÀ¾¦µ0
+Q
+java:S1121
+".Extract the assignment out of this expression.(ÒÅÅˆÿÿÿÿÿ8ïÀ¾¦µ0
+L
+java:S1121‘
+".Extract the assignment out of this expression.(¥¦ñ°8ïÀ¾¦µ0
+K
+java:S1121²
+".Extract the assignment out of this expression.(ĞšÉ8ïÀ¾¦µ0
+L
+java:S1121´
+".Extract the assignment out of this expression.(Ø†˜ğ8ïÀ¾¦µ0
+L
+java:S1121Ü
+".Extract the assignment out of this expression.(ìœ”8şÀ¾¦µ0
+Q
+java:S1121ß
+".Extract the assignment out of this expression.(½Ç¿èÿÿÿÿÿ8şÀ¾¦µ0
+Q
+java:S1121‡".Extract the assignment out of this expression.(öÜ¦şÿÿÿÿ8şÀ¾¦µ0
+Q
+java:S1121Š".Extract the assignment out of this expression.(½Ç¿èÿÿÿÿÿ8şÀ¾¦µ0
+Q
+java:S1121µ".Extract the assignment out of this expression.(šÇ‚¿ıÿÿÿÿ8Á¾¦µ0
+K
+java:S1121º".Extract the assignment out of this expression.(ãÂœg8Á¾¦µ0
+Q
+java:S1121ù".Extract the assignment out of this expression.(šÇ‚¿ıÿÿÿÿ8Á¾¦µ0
+K
+java:S1121ş".Extract the assignment out of this expression.(ãÂœg8Á¾¦µ0
+Q
+java:S1121»".Extract the assignment out of this expression.(šÇ‚¿ıÿÿÿÿ8Á¾¦µ0
+K
+java:S1121À".Extract the assignment out of this expression.(ãÂœg8Á¾¦µ0
+Q
+java:S1121ï".Extract the assignment out of this expression.(šÇ‚¿ıÿÿÿÿ8Á¾¦µ0
+Q
+java:S1121ó".Extract the assignment out of this expression.(½Ç¿èÿÿÿÿÿ8Á¾¦µ0
+Q
+java:S1121£".Extract the assignment out of this expression.(šÇ‚¿ıÿÿÿÿ8­Á¾¦µ0
+Q
+java:S1121§".Extract the assignment out of this expression.(½Ç¿èÿÿÿÿÿ8­Á¾¦µ0
+Q
+java:S1121Ö".Extract the assignment out of this expression.(šÇ‚¿ıÿÿÿÿ8­Á¾¦µ0
+Q
+java:S1121Ú".Extract the assignment out of this expression.(½Ç¿èÿÿÿÿÿ8­Á¾¦µ0
+Q
+java:S1121€".Extract the assignment out of this expression.(¬€…áøÿÿÿÿ8¿Á¾¦µ0
+Q
+java:S1121ƒ".Extract the assignment out of this expression.(½Ç¿èÿÿÿÿÿ8ÁÁ¾¦µ0
+K
+java:S1121¶".Extract the assignment out of this expression.(›ñ²8ÁÁ¾¦µ0
+Q
+java:S1121º".Extract the assignment out of this expression.(Ÿ¤Îğøÿÿÿÿ8ÁÁ¾¦µ0
+L
+java:S1121â".Extract the assignment out of this expression.(ïé‚8ÁÁ¾¦µ0
+Q
+java:S1121æ".Extract the assignment out of this expression.(Ÿ¤Îğøÿÿÿÿ8ĞÁ¾¦µ0
+L
+java:S1121".Extract the assignment out of this expression.(ú²øÛ8ĞÁ¾¦µ0
+Q
+java:S1121’".Extract the assignment out of this expression.(Ÿ¤Îğøÿÿÿÿ8ĞÁ¾¦µ0
+Q
+java:S1121à".Extract the assignment out of this expression.(·¶šüÿÿÿÿ8ĞÁ¾¦µ0
+Q
+java:S1121‚".Extract the assignment out of this expression.(ßãÆşÿÿÿÿ8àÁ¾¦µ0
+Q
+java:S1121†".Extract the assignment out of this expression.(ëé˜”ıÿÿÿÿ8àÁ¾¦µ0
+Q
+java:S1121¾".Extract the assignment out of this expression.(·¶šüÿÿÿÿ8àÁ¾¦µ0
+Q
+java:S1121è".Extract the assignment out of this expression.(ßãÆşÿÿÿÿ8àÁ¾¦µ0
+Q
+java:S1121ì".Extract the assignment out of this expression.(ëé˜”ıÿÿÿÿ8àÁ¾¦µ0
+Q
+java:S1121¢".Extract the assignment out of this expression.(ÇôÀ£úÿÿÿÿ8ğÁ¾¦µ0
+L
+java:S1121²".Extract the assignment out of this expression.(Ğãş›8ğÁ¾¦µ0
+{	java:S135è"YReduce the total number of break and continue statements in this loop to use at most one.(ÁÆÂØûÿÿÿÿ8ğÁ¾¦µ0
+{	java:S135°"YReduce the total number of break and continue statements in this loop to use at most one.(Æé¶ùÿÿÿÿ8ğÁ¾¦µ0
+{	java:S135ô"YReduce the total number of break and continue statements in this loop to use at most one.(Æé¶ùÿÿÿÿ8ÿÁ¾¦µ0
+{	java:S135¶"YReduce the total number of break and continue statements in this loop to use at most one.(Æé¶ùÿÿÿÿ8ÿÁ¾¦µ0
+u	java:S127Œ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÊúÃ8ÿÁ¾¦µ0
+u	java:S127º"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÊúÃ8ÿÁ¾¦µ0
+z	java:S127é"XRefactor the code in order to not assign to this loop counter from within the loop body.(œÅ…õıÿÿÿÿ8Â¾¦µ0
+u	java:S127ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(†‰é‡8ş•¾¦µ0
+S
+java:S1191û"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷8Â¾¦µ0
+}
+java:S4165€"_Remove this useless assignment; "u" already holds the assigned value along all execution paths.(¤œ¨ÿ8‰ßÌ¦µ0
+Z
+java:S2589ï"7Remove this expression which always evaluates to "true"(Ÿ€…´ÿÿÿÿÿ8˜ßÌ¦µ0
+V
+java:S2589÷"8Remove this expression which always evaluates to "false"(·íÓ¯8šßÌ¦µ0
+U
+java:S2589õ"7Remove this expression which always evaluates to "true"(´ğÃå8ªßÌ¦µ0
+U
+java:S2589±"7Remove this expression which always evaluates to "true"(´ğÃå8ªßÌ¦µ0
+U
+java:S2589‰"7Remove this expression which always evaluates to "true"(©ÃóÕ8šßÌ¦µ0
+V
+java:S2589¹"8Remove this expression which always evaluates to "false"(·íÓ¯8šßÌ¦µ0
+V
+java:S2589³"8Remove this expression which always evaluates to "false"(·íÓ¯8šßÌ¦µ0
+Z
+java:S2589Š"7Remove this expression which always evaluates to "true"(Ïæ–¼øÿÿÿÿ8¼Ó¾¦µ0
+U
+java:S2589·"7Remove this expression which always evaluates to "true"(´ğÃå8šßÌ¦µ0
+a
+java:S2583æ"CChange this condition so that it does not always evaluate to "true"(“í­¼8ºßÌ¦µ0
+a
+java:S2583Á"DChange this condition so that it does not always evaluate to "false"(ÿŒğ`8ºßÌ¦µ0
+a
+java:S2583»"DChange this condition so that it does not always evaluate to "false"(ÿŒğ`8ªßÌ¦µ0
+a
+java:S2583€"CChange this condition so that it does not always evaluate to "true"(“í­¼8ºßÌ¦µ0
+a
+java:S2583ÿ"DChange this condition so that it does not always evaluate to "false"(ÿŒğ`8ªßÌ¦µ0
+Ÿ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëå±ô8ºßÌ¦µ0
+s
+java:S1845ü"PRename field "RESULT" to prevent any misunderstanding/clash with field "result".(–¸ˆüÿÿÿÿ8ºßÌ¦µ0
+p
+java:S1845ı"RRename field "WAITERS" to prevent any misunderstanding/clash with field "waiters".(ËÂ‰á8äÓ¾¦µ0
+v
+java:S1845ş"ZRename field "COMPLETIONS" to prevent any misunderstanding/clash with field "completions".(ŒŞ³ëøÿÿÿÿ
+y
+java:S3077$"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(è™™îúÿÿÿÿ8ôÓ¾¦µ0
+y
+java:S3077%"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ï˜›¥ÿÿÿÿÿ8ƒÔ¾¦µ0
+r
+java:S3077&"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(×€Š¼şÿÿÿÿ
+T
+java:S1135&"2Complete the task associated to this TODO comment.(×€Š¼şÿÿÿÿ8—¬È¦µ0
+5
+java:S1659-"Declare "t" on a separate line.(®‚úÊ
+A
+java:S16596"Declare "c" on a separate line.(°èò«øÿÿÿÿ8ƒÔ¾¦µ0
+f
+java:S3358C"DExtract this nested ternary operation into an independent statement.(ìÍğÄøÿÿÿÿ8İßÌ¦µ0
+f
+java:S3358C"DExtract this nested ternary operation into an independent statement.(ìÍğÄøÿÿÿÿ8“Ô¾¦µ0
+t
+java:S3077d"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(«ùä´8âßÌ¦µ0
+y
+java:S3077e"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÃÃšıÿÿÿÿ8“Ô¾¦µ0
+u
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(×ñ÷ñúÿÿÿÿ8æßÌ¦µ0
+
+java:S2142­"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ8êßÌ¦µ0
+p
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ú³Ä€8íßÌ¦µ0
+
+java:S2142Û"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ8ğßÌ¦µ0
+p
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¢¸»ù8òßÌ¦µ0
+^
+java:S1119æ";Refactor the code to remove this label and the need for it.(ÙÑÏ§şÿÿÿÿ8õßÌ¦µ0
+G
+java:S1948™"$Make "fn" transient or serializable.(ğœæÿÿÿÿÿ8°Õ¾¦µ0
+H
+java:S1948š"%Make "dst" transient or serializable.(°­Ñìıÿÿÿÿ8ì×¾¦µ0
+>
+java:S1659Ÿ" Declare "ex" on a separate line.(ÑÃ°æ8õßÌ¦µ0
+C
+java:S1181¤"%Catch Exception instead of Throwable.( Œã8õßÌ¦µ0
+B
+java:S1948¯"$Make "fn" transient or serializable.(úÉûı8’Ö¾¦µ0
+<
+java:S1948°"%Make "dst" transient or serializable.(¬Ü‰¥
+\
+java:S1659µ">Declare "u" and all following declarations on a separate line.(ëØêö8õßÌ¦µ0
+C
+java:S1181º"%Catch Exception instead of Throwable.( Œã8õßÌ¦µ0
+H
+java:S1948Æ"%Make "arg" transient or serializable.(ˆş¦ˆüÿÿÿÿ8…àÌ¦µ0
+B
+java:S1948Ç"$Make "fn" transient or serializable.(…ëÀ¹8àÖ¾¦µ0
+<
+java:S1948È"%Make "dst" transient or serializable.(¬Ü‰¥
+\
+java:S1659Í">Declare "u" and all following declarations on a separate line.(ëØêö8…àÌ¦µ0
+C
+java:S1181Ò"%Catch Exception instead of Throwable.( Œã8…àÌ¦µ0
+D
+java:S1948Ş"&Make "arg1" transient or serializable.(É½üˆ8…àÌ¦µ0
+I
+java:S1948ß"&Make "arg2" transient or serializable.(¯Œì­üÿÿÿÿ8ãÔ¾¦µ0
+@
+java:S1948à"$Make "fn" transient or serializable.(šâä­úÿÿÿÿ
+A
+java:S1948á"%Make "dst" transient or serializable.(¿§Óûÿÿÿÿ
+\
+java:S1659è">Declare "v" and all following declarations on a separate line.(ã„Ñ»8…àÌ¦µ0
+C
+java:S1181í"%Catch Exception instead of Throwable.( Œã8”àÌ¦µ0
+H
+java:S1948ù"%Make "arg" transient or serializable.(ˆş¦ˆüÿÿÿÿ8”àÌ¦µ0
+;
+java:S1948ú"$Make "fn" transient or serializable.(À“í¡
+<
+java:S1948û"%Make "dst" transient or serializable.(½’’î
+>
+java:S1659" Declare "ex" on a separate line.(„çä8”àÌ¦µ0
+C
+java:S1181†"%Catch Exception instead of Throwable.( Œã8”àÌ¦µ0
+D
+java:S1948‘"&Make "arg1" transient or serializable.(É½üˆ8”àÌ¦µ0
+I
+java:S1948’"&Make "arg2" transient or serializable.(¯Œì­üÿÿÿÿ8ñÔ¾¦µ0
+;
+java:S1948“"$Make "fn" transient or serializable.(ğÈ¢©
+<
+java:S1948”"%Make "dst" transient or serializable.(½’’î
+>
+java:S1659›" Declare "ex" on a separate line.(„çä8¤àÌ¦µ0
+C
+java:S1181 "%Catch Exception instead of Throwable.( Œã8¤àÌ¦µ0
+H
+java:S1948«"%Make "arg" transient or serializable.(ˆş¦ˆüÿÿÿÿ8¤àÌ¦µ0
+B
+java:S1948¬"$Make "fn" transient or serializable.(ñš”é8Õ¾¦µ0
+<
+java:S1948­"%Make "dst" transient or serializable.(¬Ü‰¥
+p
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÀÿŒØ8¤àÌ¦µ0
+]
+java:S1659´"?Declare "fr" and all following declarations on a separate line.(¡•Úà8¤àÌ¦µ0
+C
+java:S1181º"%Catch Exception instead of Throwable.( Œã8¤àÌ¦µ0
+o
+java:S6201Ä"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8´àÌ¦µ0
+D
+java:S1948Õ"&Make "arg1" transient or serializable.(É½üˆ8·àÌ¦µ0
+B
+java:S1948×"$Make "fn" transient or serializable.(ÌŸèÉ8Í×¾¦µ0
+<
+java:S1948Ø"%Make "dst" transient or serializable.(Àµ½Ê
+C
+java:S1181ä"%Catch Exception instead of Throwable.( Œã8»àÌ¦µ0
+z
+java:S3077ù"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Äıºõÿÿÿÿÿ8½àÌ¦µ0
+H
+java:S1948ƒ"%Make "src" transient or serializable.(£Ú¨úÿÿÿÿ8½àÌ¦µ0
+B
+java:S1948„"$Make "fn" transient or serializable.(…ëÀ¹8ÓÔ¾¦µ0
+<
+java:S1948…"%Make "dst" transient or serializable.(¬Ü‰¥
+F
+java:S1948†"*Make "executor" transient or serializable.( Ó…İúÿÿÿÿ
+p
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(òúÍ8½àÌ¦µ0
+a
+java:S1659">Declare "t" and all following declarations on a separate line.(ÖˆÏ¯ûÿÿÿÿ8Â²Ÿ¦µ0
+U
+java:S1117"7Rename "fn" which hides the field declared at line 516.(…ëÀ¹8½àÌ¦µ0
+V
+java:S1117"8Rename "dst" which hides the field declared at line 517.(¬Ü‰¥8ÄÕ¾¦µ0
+o
+java:S6201‘"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8½àÌ¦µ0
+C
+java:S1181¡"%Catch Exception instead of Throwable.( Œã8½àÌ¦µ0
+H
+java:S1948­"%Make "src" transient or serializable.(£Ú¨úÿÿÿÿ8ÌàÌ¦µ0
+B
+java:S1948®"$Make "fn" transient or serializable.(À“í¡8ÄÕ¾¦µ0
+<
+java:S1948¯"%Make "dst" transient or serializable.(½’’î
+F
+java:S1948°"*Make "executor" transient or serializable.( Ó…İúÿÿÿÿ
+p
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(òúÍ8ÌàÌ¦µ0
+a
+java:S1659¼">Declare "t" and all following declarations on a separate line.(ÖˆÏ¯ûÿÿÿÿ8ÌàÌ¦µ0
+U
+java:S1117º"7Rename "fn" which hides the field declared at line 558.(À“í¡8ÌàÌ¦µ0
+V
+java:S1117»"8Rename "dst" which hides the field declared at line 559.(½’’î8ÓÕ¾¦µ0
+o
+java:S6201Â"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8ÜàÌ¦µ0
+C
+java:S1181Ò"%Catch Exception instead of Throwable.( Œã8ÜàÌ¦µ0
+C
+java:S1948Ş"%Make "src" transient or serializable.(µè¨û8ÜàÌ¦µ0
+@
+java:S1948ß"$Make "fn" transient or serializable.(ğœæÿÿÿÿÿ
+A
+java:S1948à"%Make "dst" transient or serializable.(°­Ñìıÿÿÿÿ
+F
+java:S1948á"*Make "executor" transient or serializable.( Ó…İúÿÿÿÿ
+p
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(òúÍ8ÜàÌ¦µ0
+C
+java:S1659í" Declare "ex" on a separate line.(²–êíÿÿÿÿÿ8ìàÌ¦µ0
+Z
+java:S1117ë"7Rename "fn" which hides the field declared at line 607.(ğœæÿÿÿÿÿ8ìàÌ¦µ0
+[
+java:S1117ì"8Rename "dst" which hides the field declared at line 608.(°­Ñìıÿÿÿÿ8óÕ¾¦µ0
+o
+java:S6201ó"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(·ÉÙüùÿÿÿÿ8ìàÌ¦µ0
+C
+java:S1181ş"%Catch Exception instead of Throwable.( Œã8ìàÌ¦µ0
+H
+java:S1948Š"%Make "src" transient or serializable.(£Ú¨úÿÿÿÿ8ìàÌ¦µ0
+C
+java:S1948‹"%Make "snd" transient or serializable.(³ôÏ·8óÕ¾¦µ0
+@
+java:S1948Œ"$Make "fn" transient or serializable.(šâä­úÿÿÿÿ
+A
+java:S1948"%Make "dst" transient or serializable.(¿§Óûÿÿÿÿ
+F
+java:S1948"*Make "executor" transient or serializable.( Ó…İúÿÿÿÿ
+p
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(òúÍ8ìàÌ¦µ0
+a
+java:S1659">Declare "s" and all following declarations on a separate line.(Ùİ»Ùøÿÿÿÿ8ìàÌ¦µ0
+Z
+java:S1117›"7Rename "fn" which hides the field declared at line 652.(šâä­úÿÿÿÿ8ûàÌ¦µ0
+[
+java:S1117œ"8Rename "dst" which hides the field declared at line 653.(¿§Óûÿÿÿÿ8‚Ö¾¦µ0
+o
+java:S6201¥"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8ûàÌ¦µ0
+j
+java:S6201°"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ğ‹½8ûàÌ¦µ0
+C
+java:S1181À"%Catch Exception instead of Throwable.( Œã8ûàÌ¦µ0
+H
+java:S1948Ì"%Make "src" transient or serializable.(£Ú¨úÿÿÿÿ8ûàÌ¦µ0
+C
+java:S1948Í"%Make "snd" transient or serializable.(³ôÏ·8’Ö¾¦µ0
+B
+java:S1948Î"$Make "fn" transient or serializable.(ğÈ¢©8‹áÌ¦µ0
+A
+java:S1948Ï"%Make "dst" transient or serializable.(°­Ñìıÿÿÿÿ
+F
+java:S1948Ğ"*Make "executor" transient or serializable.( Ó…İúÿÿÿÿ
+p
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(òúÍ8áÌ¦µ0
+a
+java:S1659ß">Declare "s" and all following declarations on a separate line.(Ùİ»Ùøÿÿÿÿ8‘áÌ¦µ0
+U
+java:S1117İ"7Rename "fn" which hides the field declared at line 718.(ğÈ¢©8“áÌ¦µ0
+[
+java:S1117Ş"8Rename "dst" which hides the field declared at line 719.(°­Ñìıÿÿÿÿ8¡Ö¾¦µ0
+o
+java:S6201ç"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8•áÌ¦µ0
+j
+java:S6201ò"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ğ‹½8—áÌ¦µ0
+C
+java:S1181"%Catch Exception instead of Throwable.( Œã8˜áÌ¦µ0
+C
+java:S1948"%Make "src" transient or serializable.(µè¨û8œáÌ¦µ0
+C
+java:S1948"%Make "snd" transient or serializable.(ıö¾“8±Ö¾¦µ0
+@
+java:S1948"$Make "fn" transient or serializable.(ğœæÿÿÿÿÿ
+A
+java:S1948"%Make "dst" transient or serializable.(°­Ñìıÿÿÿÿ
+F
+java:S1948‘"*Make "executor" transient or serializable.( Ó…İúÿÿÿÿ
+p
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(òúÍ8¡áÌ¦µ0
+a
+java:S1659 ">Declare "s" and all following declarations on a separate line.(’ÿÂÆûÿÿÿÿ8£áÌ¦µ0
+Z
+java:S1117"7Rename "fn" which hides the field declared at line 783.(ğœæÿÿÿÿÿ8¥áÌ¦µ0
+[
+java:S1117Ÿ"8Rename "dst" which hides the field declared at line 784.(°­Ñìıÿÿÿÿ8ÁÖ¾¦µ0
+o
+java:S6201¨"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(·ÉÙüùÿÿÿÿ8§áÌ¦µ0
+j
+java:S6201¬"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(¶È¶‚8©áÌ¦µ0
+C
+java:S1181µ"%Catch Exception instead of Throwable.( Œã8«áÌ¦µ0
+C
+java:S1948Á"%Make "src" transient or serializable.(µè¨û8®áÌ¦µ0
+C
+java:S1948Â"%Make "snd" transient or serializable.(ıö¾“8ĞÖ¾¦µ0
+A
+java:S1948Ã"%Make "dst" transient or serializable.(°­Ñìıÿÿÿÿ
+a
+java:S1659Í">Declare "s" and all following declarations on a separate line.(’ÿÂÆûÿÿÿÿ8°áÌ¦µ0
+[
+java:S1117Ì"8Rename "dst" which hides the field declared at line 835.(°­Ñìıÿÿÿÿ8×¾¦µ0
+o
+java:S6201Ô"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(·ÉÙüùÿÿÿÿ8³áÌ¦µ0
+j
+java:S6201Ø"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(¶È¶‚8àáÌ¦µ0
+H
+java:S1948á"%Make "src" transient or serializable.(£Ú¨úÿÿÿÿ8ãáÌ¦µ0
+H
+java:S1948â"%Make "snd" transient or serializable.(ĞË´İùÿÿÿÿ8àÖ¾¦µ0
+B
+java:S1948ã"$Make "fn" transient or serializable.(…ëÀ¹8æáÌ¦µ0
+<
+java:S1948ä"%Make "dst" transient or serializable.(¬Ü‰¥
+F
+java:S1948å"*Make "executor" transient or serializable.( Ó…İúÿÿÿÿ
+p
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(òúÍ8†âÌ¦µ0
+a
+java:S1659ô">Declare "t" and all following declarations on a separate line.(ÖˆÏ¯ûÿÿÿÿ8†âÌ¦µ0
+U
+java:S1117ò"7Rename "fn" which hides the field declared at line 867.(…ëÀ¹8†âÌ¦µ0
+V
+java:S1117ó"8Rename "dst" which hides the field declared at line 868.(¬Ü‰¥8ïÖ¾¦µ0
+o
+java:S6201ú"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8†âÌ¦µ0
+C
+java:S1181‹"%Catch Exception instead of Throwable.( Œã8†âÌ¦µ0
+H
+java:S1948—"%Make "src" transient or serializable.(£Ú¨úÿÿÿÿ8–âÌ¦µ0
+H
+java:S1948˜"%Make "snd" transient or serializable.(ĞË´İùÿÿÿÿ8ÿÖ¾¦µ0
+B
+java:S1948™"$Make "fn" transient or serializable.(À“í¡8ÿÖ¾¦µ0
+A
+java:S1948š"%Make "dst" transient or serializable.(°­Ñìıÿÿÿÿ
+F
+java:S1948›"*Make "executor" transient or serializable.( Ó…İúÿÿÿÿ
+p
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(òúÍ8–âÌ¦µ0
+a
+java:S1659ª">Declare "t" and all following declarations on a separate line.(ÖˆÏ¯ûÿÿÿÿ8–âÌ¦µ0
+U
+java:S1117¨"7Rename "fn" which hides the field declared at line 921.(À“í¡8–âÌ¦µ0
+[
+java:S1117©"8Rename "dst" which hides the field declared at line 922.(°­Ñìıÿÿÿÿ8×¾¦µ0
+o
+java:S6201°"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8–âÌ¦µ0
+C
+java:S1181À"%Catch Exception instead of Throwable.( Œã8¥âÌ¦µ0
+C
+java:S1948Ì"%Make "src" transient or serializable.(µè¨û8¥âÌ¦µ0
+C
+java:S1948Í"%Make "snd" transient or serializable.(ıö¾“8×¾¦µ0
+G
+java:S1948Î"$Make "fn" transient or serializable.(ğœæÿÿÿÿÿ8×¾¦µ0
+H
+java:S1948Ï"%Make "dst" transient or serializable.(°­Ñìıÿÿÿÿ8×¾¦µ0
+F
+java:S1948Ğ"*Make "executor" transient or serializable.( Ó…İúÿÿÿÿ
+p
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(òúÍ8¥âÌ¦µ0
+C
+java:S1659ß" Declare "ex" on a separate line.(²–êíÿÿÿÿÿ8¥âÌ¦µ0
+Z
+java:S1117İ"7Rename "fn" which hides the field declared at line 974.(ğœæÿÿÿÿÿ8¥âÌ¦µ0
+[
+java:S1117Ş"8Rename "dst" which hides the field declared at line 975.(°­Ñìıÿÿÿÿ8¥âÌ¦µ0
+o
+java:S6201å"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(·ÉÙüùÿÿÿÿ8¥âÌ¦µ0
+C
+java:S1181ğ"%Catch Exception instead of Throwable.( Œã8¥âÌ¦µ0
+C
+java:S1948ü"%Make "src" transient or serializable.(µè¨û8µâÌ¦µ0
+C
+java:S1948ı"%Make "snd" transient or serializable.(ıö¾“8®×¾¦µ0
+<
+java:S1948ş"%Make "dst" transient or serializable.(ÄÕ¢³
+a
+java:S1659ˆ">Declare "t" and all following declarations on a separate line.(È¦à¬úÿÿÿÿ8µâÌ¦µ0
+W
+java:S1117‡"9Rename "dst" which hides the field declared at line 1022.(ÄÕ¢³8µâÌ¦µ0
+o
+java:S6201"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8µâÌ¦µ0
+H
+java:S1948œ"%Make "src" transient or serializable.(£Ú¨úÿÿÿÿ8µâÌ¦µ0
+B
+java:S1948"$Make "fn" transient or serializable.(æñ¹›8¾×¾¦µ0
+<
+java:S1948"%Make "dst" transient or serializable.(Àµ½Ê
+a
+java:S1659¨">Declare "t" and all following declarations on a separate line.(ö¡ºôıÿÿÿÿ8ÅâÌ¦µ0
+V
+java:S1117¦"8Rename "fn" which hides the field declared at line 1053.(æñ¹›8ÅâÌ¦µ0
+W
+java:S1117§"9Rename "dst" which hides the field declared at line 1054.(Àµ½Ê8Í×¾¦µ0
+j
+java:S6201®"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Š¹ä“8ÅâÌ¦µ0
+C
+java:S1181²"%Catch Exception instead of Throwable.( Œã8ÅâÌ¦µ0
+H
+java:S1948Á"%Make "src" transient or serializable.(£Ú¨úÿÿÿÿ8ÅâÌ¦µ0
+B
+java:S1948Â"$Make "fn" transient or serializable.(ÌŸèÉ8ÅâÌ¦µ0
+C
+java:S1948Ã"%Make "dst" transient or serializable.(Àµ½Ê8Í×¾¦µ0
+F
+java:S1948Ä"*Make "executor" transient or serializable.( Ó…İúÿÿÿÿ
+p
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(òúÍ8ÅâÌ¦µ0
+a
+java:S1659Ğ">Declare "t" and all following declarations on a separate line.(ÖˆÏ¯ûÿÿÿÿ8ÅâÌ¦µ0
+V
+java:S1117Î"8Rename "fn" which hides the field declared at line 1090.(ÌŸèÉ8ÔâÌ¦µ0
+W
+java:S1117Ï"9Rename "dst" which hides the field declared at line 1091.(Àµ½Ê8İ×¾¦µ0
+o
+java:S6201Ö"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8ÔâÌ¦µ0
+C
+java:S1181æ"%Catch Exception instead of Throwable.( Œã8ÔâÌ¦µ0
+C
+java:S1948ñ"%Make "src" transient or serializable.(µè¨û8ÔâÌ¦µ0
+C
+java:S1948ò"%Make "dst" transient or serializable.(Àµ½Ê8ÔâÌ¦µ0
+a
+java:S1659ú">Declare "t" and all following declarations on a separate line.(ÖˆÏ¯ûÿÿÿÿ8ÔâÌ¦µ0
+W
+java:S1117ù"9Rename "dst" which hides the field declared at line 1138.(Àµ½Ê8ÔâÌ¦µ0
+o
+java:S6201ÿ"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8ÔâÌ¦µ0
+C
+java:S1948	"%Make "src" transient or serializable.(µè¨û8ÔâÌ¦µ0
+H
+java:S1948‘	"%Make "dst" transient or serializable.(°­Ñìıÿÿÿÿ8ü×¾¦µ0
+C
+java:S1659™	" Declare "ex" on a separate line.(²–êíÿÿÿÿÿ8æâÌ¦µ0
+\
+java:S1117˜	"9Rename "dst" which hides the field declared at line 1169.(°­Ñìıÿÿÿÿ8çâÌ¦µ0
+o
+java:S6201	"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(·ÉÙüùÿÿÿÿ8èâÌ¦µ0
+H
+java:S1948©	"%Make "src" transient or serializable.(£Ú¨úÿÿÿÿ8èâÌ¦µ0
+G
+java:S1948ª	"$Make "fn" transient or serializable.(İšÿ›øÿÿÿÿ8ŒØ¾¦µ0
+<
+java:S1948«	"%Make "dst" transient or serializable.(¬Ü‰¥
+F
+java:S1948¬	"*Make "executor" transient or serializable.( Ó…İúÿÿÿÿ
+a
+java:S1659¸	">Declare "t" and all following declarations on a separate line.(ÖˆÏ¯ûÿÿÿÿ8èâÌ¦µ0
+[
+java:S1117¶	"8Rename "fn" which hides the field declared at line 1194.(İšÿ›øÿÿÿÿ8èâÌ¦µ0
+W
+java:S1117·	"9Rename "dst" which hides the field declared at line 1195.(¬Ü‰¥8ŒØ¾¦µ0
+o
+java:S6201¾	"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8èâÌ¦µ0
+C
+java:S1181Ï	"%Catch Exception instead of Throwable.( Œã8èâÌ¦µ0
+H
+java:S1948Ú	"%Make "src" transient or serializable.(£Ú¨úÿÿÿÿ8èâÌ¦µ0
+B
+java:S1948Û	"$Make "fn" transient or serializable.(ñš”é8›Ø¾¦µ0
+C
+java:S1948Ü	"%Make "dst" transient or serializable.(¬Ü‰¥8›Ø¾¦µ0
+F
+java:S1948İ	"*Make "executor" transient or serializable.( Ó…İúÿÿÿÿ
+p
+java:S3776å	"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(òúÍ8øâÌ¦µ0
+a
+java:S1659é	">Declare "t" and all following declarations on a separate line.(¡àšˆÿÿÿÿÿ8øâÌ¦µ0
+V
+java:S1117ç	"8Rename "fn" which hides the field declared at line 1243.(ñš”é8øâÌ¦µ0
+W
+java:S1117è	"9Rename "dst" which hides the field declared at line 1244.(¬Ü‰¥8«Ø¾¦µ0
+o
+java:S6201ï	"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8øâÌ¦µ0
+C
+java:S1181„
+"%Catch Exception instead of Throwable.( Œã8øâÌ¦µ0
+o
+java:S6201—
+"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(ë½ÈÄøÿÿÿÿ8øâÌ¦µ0
+p
+java:S3776¬
+"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(èµı8ˆãÌ¦µ0
+C
+java:S1659¹
+" Declare "ex" on a separate line.(Íİ½‡üÿÿÿÿ8ˆãÌ¦µ0
+o
+java:S6201º
+"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8ˆãÌ¦µ0
+C
+java:S1181Ê
+"%Catch Exception instead of Throwable.( Œã8ˆãÌ¦µ0
+u
+java:S3776Õ
+"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÅÜŞÛúÿÿÿÿ8ˆãÌ¦µ0
+C
+java:S1659ä
+" Declare "ex" on a separate line.(Íİ½‡üÿÿÿÿ8ˆãÌ¦µ0
+o
+java:S6201å
+"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8ˆãÌ¦µ0
+C
+java:S1181ô
+"%Catch Exception instead of Throwable.( Œã8—ãÌ¦µ0
+u
+java:S3776ÿ
+"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(†Ğ—êÿÿÿÿÿ8—ãÌ¦µ0
+o
+java:S6201"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(·ÉÙüùÿÿÿÿ8—ãÌ¦µ0
+C
+java:S1181š"%Catch Exception instead of Throwable.( Œã8—ãÌ¦µ0
+p
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Ë¼÷ö8—ãÌ¦µ0
+B
+java:S1659¬"Declare "s" on a separate line.(×¤ÄÎşÿÿÿÿ8—ãÌ¦µ0
+=
+java:S1659¯"Declare "p" on a separate line.(’áÏÇ8—ãÌ¦µ0
+\
+java:S1659Â">Declare "u" and all following declarations on a separate line.(ßé™À8—ãÌ¦µ0
+o
+java:S6201Ã"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8§ãÌ¦µ0
+j
+java:S6201Î"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ğ‹½8§ãÌ¦µ0
+C
+java:S1181İ"%Catch Exception instead of Throwable.( Œã8§ãÌ¦µ0
+u
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(§› Ãùÿÿÿÿ8§ãÌ¦µ0
+B
+java:S1659ğ"Declare "s" on a separate line.(×¤ÄÎşÿÿÿÿ8§ãÌ¦µ0
+=
+java:S1659ó"Declare "p" on a separate line.(’áÏÇ8§ãÌ¦µ0
+\
+java:S1659†">Declare "u" and all following declarations on a separate line.(ßé™À8§ãÌ¦µ0
+o
+java:S6201‡"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8§ãÌ¦µ0
+j
+java:S6201’"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ğ‹½8§ãÌ¦µ0
+C
+java:S1181 "%Catch Exception instead of Throwable.( Œã8§ãÌ¦µ0
+p
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(³©ø¿8·ãÌ¦µ0
+B
+java:S1659²"Declare "s" on a separate line.(×¤ÄÎşÿÿÿÿ8·ãÌ¦µ0
+=
+java:S1659µ"Declare "p" on a separate line.(’áÏÇ8·ãÌ¦µ0
+o
+java:S6201É"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(·ÉÙüùÿÿÿÿ8·ãÌ¦µ0
+j
+java:S6201Í"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(¶È¶‚8·ãÌ¦µ0
+C
+java:S1181Õ"%Catch Exception instead of Throwable.( Œã8·ãÌ¦µ0
+u
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(¹Ó¤¯øÿÿÿÿ8·ãÌ¦µ0
+=
+java:S1659ë"Declare "p" on a separate line.(’áÏÇ8·ãÌ¦µ0
+C
+java:S1659ø" Declare "ex" on a separate line.(Íİ½‡üÿÿÿÿ8ÆãÌ¦µ0
+o
+java:S6201ù"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8ÆãÌ¦µ0
+C
+java:S1181‰"%Catch Exception instead of Throwable.( Œã8ÆãÌ¦µ0
+o
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(µÒ´L8ÆãÌ¦µ0
+=
+java:S1659Ÿ"Declare "p" on a separate line.(’áÏÇ8ÆãÌ¦µ0
+C
+java:S1659¬" Declare "ex" on a separate line.(Íİ½‡üÿÿÿÿ8ÆãÌ¦µ0
+o
+java:S6201­"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8ÆãÌ¦µ0
+C
+java:S1181¼"%Catch Exception instead of Throwable.( Œã8ÆãÌ¦µ0
+o
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(óÊæ38ÆãÌ¦µ0
+=
+java:S1659Ò"Declare "p" on a separate line.(’áÏÇ8ÖãÌ¦µ0
+o
+java:S6201à"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(·ÉÙüùÿÿÿÿ8ÖãÌ¦µ0
+C
+java:S1181ê"%Catch Exception instead of Throwable.( Œã8ÖãÌ¦µ0
+u
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(½¹º¢ùÿÿÿÿ8ÖãÌ¦µ0
+C
+java:S1659ˆ" Declare "ex" on a separate line.(Íİ½‡üÿÿÿÿ8ÖãÌ¦µ0
+o
+java:S6201‰"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8ÖãÌ¦µ0
+C
+java:S1181"%Catch Exception instead of Throwable.( Œã8æãÌ¦µ0
+u
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(÷³÷‡ùÿÿÿÿ8æãÌ¦µ0
+C
+java:S1659¿" Declare "ex" on a separate line.(Íİ½‡üÿÿÿÿ8æãÌ¦µ0
+o
+java:S6201À"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8æãÌ¦µ0
+C
+java:S1181Ï"%Catch Exception instead of Throwable.( Œã8æãÌ¦µ0
+p
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ş¢­®8æãÌ¦µ0
+C
+java:S1659ë" Declare "ex" on a separate line.(Íİ½‡üÿÿÿÿ8æãÌ¦µ0
+o
+java:S6201ì"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8æãÌ¦µ0
+C
+java:S1181ş"%Catch Exception instead of Throwable.( Œã8õãÌ¦µ0
+]
+java:S1659ı"?Declare "ex" and all following declarations on a separate line.(¯°ÕŞ8õãÌ¦µ0
+‡
+java:S6201†"dReplace this instanceof check and cast with 'instanceof CancellationException cancellationexception'(ÿñı©úÿÿÿÿ8õãÌ¦µ0
+]
+java:S1659"?Declare "ex" and all following declarations on a separate line.(¯°ÕŞ8õãÌ¦µ0
+‡
+java:S6201©"dReplace this instanceof check and cast with 'instanceof CancellationException cancellationexception'(ÿñı©úÿÿÿÿ8õãÌ¦µ0
+C
+java:S1659À" Declare "ex" on a separate line.(²–êíÿÿÿÿÿ8õãÌ¦µ0
+‡
+java:S6201É"dReplace this instanceof check and cast with 'instanceof CancellationException cancellationexception'(ÿñı©úÿÿÿÿ8…äÌ¦µ0
+~
+java:S6201Ë"`Replace this instanceof check and cast with 'instanceof CompletionException completionexception'(·…‡Í8…äÌ¦µ0
+C
+java:S1659Û" Declare "ex" on a separate line.(²–êíÿÿÿÿÿ8…äÌ¦µ0
+‡
+java:S6201ä"dReplace this instanceof check and cast with 'instanceof CancellationException cancellationexception'(ÿñı©úÿÿÿÿ8…äÌ¦µ0
+~
+java:S6201æ"`Replace this instanceof check and cast with 'instanceof CompletionException completionexception'(·…‡Í8…äÌ¦µ0
+u
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ÿß·Üüÿÿÿÿ8”äÌ¦µ0
+b
+java:S1659—"?Declare "ex" and all following declarations on a separate line.(ì§Áşÿÿÿÿ8”äÌ¦µ0
+o
+java:S6201˜"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8”äÌ¦µ0
+C
+java:S1181œ"%Catch Exception instead of Throwable.( Œã8”äÌ¦µ0
+o
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ë÷Â08”äÌ¦µ0
+o
+java:S6201ä"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(íñ¤üÿÿÿÿ8”äÌ¦µ0
+p
+java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¾ùÑ8”äÌ¦µ0
+D
+java:S1659ò"!Declare "snd" on a separate line.(öøş‡üÿÿÿÿ8¤äÌ¦µ0
+=
+java:S1659ù"Declare "q" on a separate line.(ƒº›æ8¤äÌ¦µ0
+=
+java:S1659ú"Declare "s" on a separate line.(˜ˆ‰´8Ú¾¦µ0
+o
+java:S6201"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(·ÉÙüùÿÿÿÿ8¤äÌ¦µ0
+j
+java:S6201‘"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(¶È¶‚8¤äÌ¦µ0
+p
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ßÑŒı8¤äÌ¦µ0
+?
+java:S1116±"Remove this empty statement.(ÎÕÓ®úÿÿÿÿ8¤äÌ¦µ0
+=
+java:S1659Â"Declare "t" on a separate line.(ğÆˆ¹8¤äÌ¦µ0
+o
+java:S6201Ã"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8¤äÌ¦µ0
+p
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(»Í·8´äÌ¦µ0
+D
+java:S1659Ø"!Declare "snd" on a separate line.(öøş‡üÿÿÿÿ8´äÌ¦µ0
+=
+java:S1659ß"Declare "q" on a separate line.(ƒº›æ8´äÌ¦µ0
+=
+java:S1659ò"Declare "t" on a separate line.(ğÆˆ¹8´äÌ¦µ0
+o
+java:S6201ó"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(Ôúÿÿÿÿ8´äÌ¦µ0
+g
+java:S3358ò"DExtract this nested ternary operation into an independent statement.(§†ßÓşÿÿÿÿ8´äÌ¦µ0
+b
+java:S3358õ"DExtract this nested ternary operation into an independent statement.(ËÒ©‰8´äÌ¦µ0
+j
+java:S6201õ"LReplace this instanceof check and cast with 'instanceof AltResult altresult'(ËÒ©‰8´äÌ¦µ0
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(á¬øíıÿÿÿÿ8÷œÓ¢µ0
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Æ™ş8÷œÓ¢µ0
+j
+java:S1128
+"TRemove this unnecessary import: same package classes are always implicitly imported.(ğ£Úû
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(÷ı¶Œúÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¨ÏÙî
+p
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ú©«y8÷œÓ¢µ0

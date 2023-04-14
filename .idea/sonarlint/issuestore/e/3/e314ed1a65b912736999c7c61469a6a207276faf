@@ -1,0 +1,20 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¨ßÕÂùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(éª‚€
+o	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãñÁÒ
+>
+java:S1659ª""Declare "next" on a separate line.(÷Žß–ùÿÿÿÿ
+>
+java:S1659½""Declare "next" on a separate line.(÷Žß–ùÿÿÿÿ
+>
+java:S1659Õ""Declare "next" on a separate line.(÷Žß–ùÿÿÿÿ
+>
+java:S1659í""Declare "next" on a separate line.(÷Žß–ùÿÿÿÿ
+=
+java:S1905Š"'Remove this unnecessary cast to "long".(¸ÊšR
+D
+java:S1905“"(Remove this unnecessary cast to "float".(Ä·Í‘úÿÿÿÿ
+@
+java:S1905œ")Remove this unnecessary cast to "double".(‡àãÈ

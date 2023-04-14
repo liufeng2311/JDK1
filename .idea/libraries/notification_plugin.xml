@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="notification_plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/missioncontrol/plugins/com.jrockit.mc.console.ui.notification_5.5.2.174165/notification_plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

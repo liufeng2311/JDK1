@@ -1,0 +1,123 @@
+
+p
+java:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ’²Ó
+p
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+p
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+p
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+p
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+p
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+p
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+p
+java:S2293‚
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿÜê
+b
+java:S1192Ì"KDefine a constant instead of duplicating this literal "Deque full" 3 times.(¤­ÛÜ
+E
+java:S1121¦	".Extract the assignment out of this expression.(æ¾ˆ
+n	java:S127å"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ö®‡¤
+P
+java:S1117Å"9Rename "lock" which hides the field declared at line 158.(º·úã
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(·†ÁÈıÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(·†ÁÈıÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(·†ÁÈıÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(·†ÁÈıÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(·†ÁÈıÿÿÿÿ
+P
+java:S1117Ø"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117ç"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117÷"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117ˆ"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117›"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117²"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117Ó"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117İ"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117ç"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117ô"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117ƒ"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117•"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117·"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117Á"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117Ì"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117İ"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1161ø":Add the "@Override" annotation above this method signature(å{
+V
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(ôú­¾úÿÿÿÿ
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(€îëò
+P
+java:S1117Í"9Rename "lock" which hides the field declared at line 158.(º·úã
+P
+java:S1117í"9Rename "lock" which hides the field declared at line 158.(º·úã
+V
+java:S1161œ":Add the "@Override" annotation above this method signature(İî‹âùÿÿÿÿ
+P
+java:S1117¦"9Rename "lock" which hides the field declared at line 158.(º·úã
+V
+java:S1161·":Add the "@Override" annotation above this method signature(­­¬Îùÿÿÿÿ
+P
+java:S1117¹"9Rename "lock" which hides the field declared at line 158.(º·úã
+V
+java:S1161ü":Add the "@Override" annotation above this method signature(•ù•ãşÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¥“Ïêúÿÿÿÿ
+N
+java:S1135Æ"2Complete the task associated to this TODO comment.(Ü£Ìéûÿÿÿÿ
+P
+java:S1117ı"9Rename "lock" which hides the field declared at line 158.(º·úã
+V
+java:S1161®":Add the "@Override" annotation above this method signature(©Ûø¿ûÿÿÿÿ
+P
+java:S1117¯"9Rename "lock" which hides the field declared at line 158.(º·úã
+Q
+java:S1161Á":Add the "@Override" annotation above this method signature(Á»›ê
+P
+java:S1117Â"9Rename "lock" which hides the field declared at line 158.(º·úã
+V
+java:S1161Ü":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+P
+java:S1117İ"9Rename "lock" which hides the field declared at line 158.(º·úã
+U
+java:S1117¦"9Rename "lock" which hides the field declared at line 158.(ˆŠ’äúÿÿÿÿ
+U
+java:S1117È"9Rename "lock" which hides the field declared at line 158.(ˆŠ’äúÿÿÿÿ
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(ÓÂÈ˜
+V
+java:S1161à":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+U
+java:S1117å"9Rename "lock" which hides the field declared at line 158.(ˆŠ’äúÿÿÿÿ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(àı‘Ïûÿÿÿÿ
+i
+java:S3776‹	"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(÷¾˜
+[
+java:S3358	"DExtract this nested ternary operation into an independent statement.(»³¡
+h
+java:S3776²	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ºˆ¡
+P
+java:S1161²	":Add the "@Override" annotation above this method signature(ºˆ¡
+V
+java:S1161
+":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+P
+java:S1117
+"9Rename "lock" which hides the field declared at line 158.(º·úã

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/missioncontrol/plugins/com.jrockit.mc.rjmx_5.5.2.174165/lib/gimap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/missioncontrol/plugins/com.jrockit.mc.rjmx_5.5.2.174165/lib/pop3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/missioncontrol/plugins/com.jrockit.mc.rjmx_5.5.2.174165/lib/imap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/missioncontrol/plugins/com.jrockit.mc.rjmx_5.5.2.174165/lib/dsn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/missioncontrol/plugins/com.jrockit.mc.rjmx_5.5.2.174165/lib/smtp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/missioncontrol/plugins/com.jrockit.mc.rjmx_5.5.2.174165/lib/mailapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
