@@ -46,6 +46,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/java/util/concurrent/AbstractExecutorService.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/java/util/concurrent/CompletableFuture.java" root0="SKIP_INSPECTION" />
@@ -77,6 +80,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="1tmYTBWqShqo12NdCNPW6H1fLhw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -86,7 +92,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/liufeng/IdeaProjects/JDK1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -232,6 +243,7 @@
       <workItem from="1681483781339" duration="477000" />
       <workItem from="1681484373035" duration="237000" />
       <workItem from="1681484612504" duration="1686000" />
+      <workItem from="1703314044891" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1681484387462</created>
@@ -269,6 +281,10 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="初始化" />
     <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
