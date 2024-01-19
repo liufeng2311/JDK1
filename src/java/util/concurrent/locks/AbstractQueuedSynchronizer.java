@@ -116,6 +116,7 @@ public abstract class AbstractQueuedSynchronizer extends AbstractOwnableSynchron
 
     /**
      * 同步队列头结点,
+     * volatile 修饰引用类型时, 仅保证了引用类型的引用的可见性, 并不保证引用类型内部属性的可见性
      */
     private transient volatile Node head;
 
@@ -326,7 +327,6 @@ public abstract class AbstractQueuedSynchronizer extends AbstractOwnableSynchron
             int ws;
             if (pred != head && ((ws = pred.waitStatus) == Node.SIGNAL || (ws <= 0 && compareAndSetWaitStatus(pred, ws, Node.SIGNAL))) && pred.thread != null) {
                 Node next = node.next;
-                //TODO  这里只保证了前继节点到后继节点的关系, 没有保证后继到前继的关系
                 if (next != null && next.waitStatus <= 0) {
                     compareAndSetNext(pred, predNext, next);
                 }
@@ -482,7 +482,7 @@ public abstract class AbstractQueuedSynchronizer extends AbstractOwnableSynchron
     }
 
     /**
-     * 获取一个共享锁
+     * 获取一个共享锁, 不同于排它锁, 共享锁可以进行传递
      */
     private void doAcquireShared(int arg) {
         final Node node = addWaiter(Node.SHARED);
@@ -616,6 +616,7 @@ public abstract class AbstractQueuedSynchronizer extends AbstractOwnableSynchron
     }
 
     /**
+     * 获取锁的入口程序
      * 1. 调用tryAcquire()获取锁,若成功则返回
      * 2. 获取失败后,将当前线程加入等待队列中
      * 3. 该方法不会对中断做处理

@@ -5,6 +5,17 @@ import java.util.Objects;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.function.Supplier;
 
+
+/**
+ * ThreadLocal如何实现线程安全的？
+ * ThreadLocal是如何处理内存泄漏的？
+ * ThreadLocal的Map实现与HashMap有什么不同？
+ * InheritableThreadLocal是如何实现的？
+ * InheritableThreadLocal是否可以将数据传递至线程池的线程中？
+ *
+ *
+ * @param <T>
+ */
 public class ThreadLocal<T> {
 
     /**
