@@ -602,7 +602,12 @@ public abstract class AbstractQueuedSynchronizer extends AbstractOwnableSynchron
         throw new UnsupportedOperationException();
     }
 
-    protected int tryAcquireShared(int arg) {
+  /**
+   * 该值返回的是当前线程获取到它对应的锁后,还剩多少锁, 该值大于等于零表示获取锁成功, 小于零表示获取失败
+   * @param arg
+   * @return
+   */
+  protected int tryAcquireShared(int arg) {
         throw new UnsupportedOperationException();
     }
 
@@ -677,6 +682,10 @@ public abstract class AbstractQueuedSynchronizer extends AbstractOwnableSynchron
         if (Thread.interrupted()) {
             throw new InterruptedException();
         }
+
+        //为什么是小于零,而不是小于等于零？
+        // 因为方法的返回值表示当前线程获取它想要的锁后,剩余的锁,小于零表示获取不到它想要的锁, 此时才需要加入队列
+        //
         if (tryAcquireShared(arg) < 0) {
             doAcquireSharedInterruptibly(arg);
         }
