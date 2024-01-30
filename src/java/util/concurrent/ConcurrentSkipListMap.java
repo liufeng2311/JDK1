@@ -7,6 +7,11 @@ import java.util.function.BiFunction;
 import java.util.function.Consumer;
 import java.util.function.Function;
 
+/**
+ * 跳跃链表
+ * @param <K>
+ * @param <V>
+ */
 public class ConcurrentSkipListMap<K, V> extends AbstractMap<K, V> implements ConcurrentNavigableMap<K, V>, Cloneable, Serializable {
 
     private static final long serialVersionUID = -8627078645895051609L;
